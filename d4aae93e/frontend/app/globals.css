@@ -1,0 +1,82 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: dark;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background: #060a12;
+  color: #e7eefb;
+  font-family: Inter, ui-sans-serif, system-ui, -apple-system, "Segoe UI", sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
+
+::selection {
+  background: rgba(53, 240, 176, 0.3);
+}
+
+::-webkit-scrollbar {
+  width: 10px;
+  height: 10px;
+}
+::-webkit-scrollbar-track {
+  background: #080d17;
+}
+::-webkit-scrollbar-thumb {
+  background: #1d2a44;
+  border-radius: 999px;
+}
+
+.grid-bg {
+  background-image:
+    linear-gradient(rgba(89, 194, 255, 0.05) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(89, 194, 255, 0.05) 1px, transparent 1px);
+  background-size: 42px 42px;
+}
+
+.glass {
+  background: linear-gradient(180deg, rgba(15, 24, 42, 0.92), rgba(9, 15, 27, 0.92));
+  border: 1px solid rgba(35, 50, 78, 0.8);
+  backdrop-filter: blur(14px);
+}
+
+.mono {
+  font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+}
+
+.fade-in {
+  animation: fadeIn 0.5s ease both;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(6px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.route-flow {
+  animation: routeFlow 1.4s linear infinite;
+}
+
+@keyframes routeFlow {
+  to {
+    stroke-dashoffset: -60;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .route-flow {
+    animation: none;
+  }
+}

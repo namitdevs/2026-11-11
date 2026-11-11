@@ -1,0 +1,1030 @@
+report_id,node_id,category,description,reported_at,reporter_hash,severity,resolve_minutes,cluster_id
+r-b89c57c076,vending_hub,cleanliness,Tables at Vending & ATM Hub are sticky and uncleaned,2026-01-05 15:21:00,e07cee08f365458e,1,76,flood-007
+r-627086b936,vending_hub,cleanliness,"Spilled food on the floor at Vending & ATM Hub, nobody is cleaning it",2026-01-05 15:23:00,1ce59082a0844f96,1,76,flood-007
+r-8f550c7e65,vending_hub,cleanliness,Tables at Vending & ATM Hub are sticky and uncleaned,2026-01-05 15:24:00,38ebbd60d9d00cd2,1,76,flood-007
+r-b7357d4b9b,vending_hub,cleanliness,Garbage bins overflowing at Vending & ATM Hub,2026-01-05 15:24:00,675a757498c7eaa4,1,76,flood-007
+r-b735a1c99b,vending_hub,cleanliness,Dustbins not cleared outside Vending & ATM Hub for two days,2026-01-05 15:25:00,a458c0644b2b17a2,1,76,flood-007
+r-3f93ef4815,vending_hub,cleanliness,Litter all around the Vending & ATM Hub seating area,2026-01-05 15:25:00,04df5bb997520138,1,76,flood-007
+r-f565a4f9f4,vending_hub,cleanliness,"Spilled food on the floor at Vending & ATM Hub, nobody is cleaning it",2026-01-05 15:26:00,2dc6db9420f2b859,1,76,flood-007
+r-b059e7f3a2,vending_hub,cleanliness,Litter all around the Vending & ATM Hub seating area,2026-01-05 15:27:00,d3a8950a0a5cab65,1,76,flood-007
+r-153cb40631,vending_hub,cleanliness,Tables at Vending & ATM Hub are sticky and uncleaned,2026-01-05 15:29:00,7a653403eed4b7cc,1,76,flood-007
+r-873f16a1e1,vending_hub,cleanliness,Garbage bins overflowing at Vending & ATM Hub,2026-01-05 15:30:00,bb3a9303b04227da,1,76,flood-007
+r-53d9068df4,vending_hub,cleanliness,Tables at Vending & ATM Hub are sticky and uncleaned,2026-01-05 15:31:00,01fbbd86cd60bc03,1,76,flood-007
+r-53917129a2,vending_hub,cleanliness,Dustbins not cleared outside Vending & ATM Hub for two days,2026-01-05 15:31:00,1b05647c0c107877,1,76,flood-007
+r-dcdbc213bd,vending_hub,cleanliness,Washroom at Vending & ATM Hub is dirty and out of soap,2026-01-05 15:32:00,668c32e1d5fa040e,1,76,flood-007
+r-c7e28a5fee,vending_hub,cleanliness,Litter all around the Vending & ATM Hub seating area,2026-01-05 15:33:00,db5f12b580f9e7f6,1,76,flood-007
+r-a98a678dde,vending_hub,cleanliness,Washroom at Vending & ATM Hub is dirty and out of soap,2026-01-05 15:34:00,170c53856428a248,1,76,flood-007
+r-bf8a2891da,vending_hub,cleanliness,Tables at Vending & ATM Hub are sticky and uncleaned,2026-01-05 15:34:00,3cada8e8d711d448,1,76,flood-007
+r-cd3db9dfb6,vending_hub,cleanliness,Washroom at Vending & ATM Hub is dirty and out of soap,2026-01-05 15:35:00,2f378798b162d3eb,1,76,flood-007
+r-f1b3008ee6,mess_north,food,Insect found near the serving counter at North Mess,2026-01-05 20:04:00,7d77eea89da929c2,3,162,flood-019
+r-05a8912507,mess_north,food,Insect found near the serving counter at North Mess,2026-01-05 20:05:00,2f19285aba681f48,3,162,flood-019
+r-6ee44c0d81,mess_north,food,Undercooked rice served at North Mess during lunch,2026-01-05 20:05:00,ca42075c82d3f153,3,162,flood-019
+r-50ef25ce2d,mess_north,food,"Curry at North Mess has a strange smell, please inspect",2026-01-05 20:05:00,4e68c150728a5d27,3,162,flood-019
+r-6e8b835245,mess_north,food,Undercooked rice served at North Mess during lunch,2026-01-05 20:06:00,aa2b90ef832221f7,3,162,flood-019
+r-7a58e9db65,mess_north,food,"Curry at North Mess has a strange smell, please inspect",2026-01-05 20:07:00,43d7ea2a8074267a,3,162,flood-019
+r-664f567350,mess_north,food,"Hygiene issue at the North Mess counter, plates look unwashed",2026-01-05 20:08:00,60b775d9463dcbde,3,162,flood-019
+r-d39577b9be,mess_north,food,Insect found near the serving counter at North Mess,2026-01-05 20:08:00,9cc4b2ec6a5b2647,3,162,flood-019
+r-93e8dbb4ab,mess_north,food,Undercooked rice served at North Mess during lunch,2026-01-05 20:09:00,a5acbba5de110003,3,162,flood-019
+r-48792b8885,mess_north,food,Insect found near the serving counter at North Mess,2026-01-05 20:09:00,84aebe97965ba42f,3,162,flood-019
+r-4f520bd139,mess_north,food,"Food smells stale at North Mess, please check the batch",2026-01-05 20:09:00,dc558084cee129cf,3,162,flood-019
+r-b67eb3ef05,mess_north,food,Insect found near the serving counter at North Mess,2026-01-05 20:10:00,ade8febbd6e8dcd6,3,162,flood-019
+r-5ace648818,mess_main,food,Undercooked rice served at Main Mess during lunch,2026-01-06 14:29:00,b399cc28c5f50521,3,200,flood-020
+r-fe47481957,mess_main,food,Insect found near the serving counter at Main Mess,2026-01-06 14:30:00,0d30b616c05e54b9,3,200,flood-020
+r-b764c1c2cf,mess_main,food,"Food smells stale at Main Mess, please check the batch",2026-01-06 14:32:00,9d134b8cc8259d27,3,200,flood-020
+r-69195ba3e3,mess_main,food,The milk at Main Mess tastes sour today,2026-01-06 14:35:00,5c3b27dda4c3daab,3,200,flood-020
+r-39e5edd1a0,mess_main,food,"Hygiene issue at the Main Mess counter, plates look unwashed",2026-01-06 14:35:00,28660c6bed3607b9,3,200,flood-020
+r-6cf2c8ca7b,canteen_north,cleanliness,Garbage bins overflowing at North Canteen,2026-01-06 23:37:00,b23672fcd7d0e4f7,0,32,single-051
+r-b99849b4b3,vending_hub,wifi,Frequent disconnections on the Vending & ATM Hub access point tonight,2026-01-07 09:04:00,abcb8eb1c1ef928e,1,53,single-064
+r-3a6ae1581b,medical,food,Insect found near the serving counter at Health Centre,2026-01-07 21:43:00,062ccf176f12cdaf,1,66,single-049
+r-d4b81b9632,hostel_b1,safety,"Stray dog pack near Boys Hostel B1, students are scared to walk",2026-01-10 16:43:00,1a64bfd9aa8ae30d,3,129,single-009
+r-32a10f9c01,mess_north,cleanliness,Washroom at North Mess is dirty and out of soap,2026-01-11 01:40:00,05a72d8cc8bca1c8,1,46,single-054
+r-69b540de17,mess_main,food,Undercooked rice served at Main Mess during lunch,2026-01-11 04:51:00,ae343ff914934f1c,1,63,single-060
+r-f126b7d262,amphitheatre,cleanliness,Garbage bins overflowing at Open Air Amphitheatre,2026-01-11 05:33:00,840b8baebae92ec8,0,28,single-045
+r-f6c226cba7,foodcourt,food,"Hygiene issue at the Food Court counter, plates look unwashed",2026-01-11 12:19:00,14bda7d7455db5f3,3,201,flood-057
+r-2fec141047,foodcourt,food,Undercooked rice served at Food Court during lunch,2026-01-11 12:20:00,a0922bdb8f0bf923,3,201,flood-057
+r-4dfcc76eb3,foodcourt,food,"Food smells stale at Food Court, please check the batch",2026-01-11 12:21:00,670c097c12d3e6ff,3,201,flood-057
+r-3df82d5593,foodcourt,food,"Curry at Food Court has a strange smell, please inspect",2026-01-11 12:21:00,bff708f04c5b945c,3,201,flood-057
+r-7c23eaa84f,foodcourt,food,Insect found near the serving counter at Food Court,2026-01-11 12:24:00,a9c9d13d25ca2435,3,201,flood-057
+r-fb4f1b4b79,foodcourt,food,"Hygiene issue at the Food Court counter, plates look unwashed",2026-01-11 12:24:00,1b399e59d0ad28f5,3,201,flood-057
+r-01a53c85b2,foodcourt,food,"Hygiene issue at the Food Court counter, plates look unwashed",2026-01-11 12:26:00,e6d9d89c807c9ffa,3,201,flood-057
+r-9d24a76481,foodcourt,food,The milk at Food Court tastes sour today,2026-01-11 12:26:00,6bbaf36f6f72e884,3,201,flood-057
+r-ddc95ee0a0,foodcourt,food,"Food smells stale at Food Court, please check the batch",2026-01-11 12:27:00,f406c160f4de572c,3,201,flood-057
+r-5fb871063c,foodcourt,food,"Food smells stale at Food Court, please check the batch",2026-01-11 12:29:00,cd81b32f20e4837d,3,201,flood-057
+r-7bbb6c6398,foodcourt,food,Insect found near the serving counter at Food Court,2026-01-11 12:29:00,5d9331720f83fa48,3,201,flood-057
+r-b842eb535c,foodcourt,food,"Food smells stale at Food Court, please check the batch",2026-01-11 12:29:00,06721a181a5bc18e,3,201,flood-057
+r-4adc9df316,foodcourt,food,"Curry at Food Court has a strange smell, please inspect",2026-01-11 12:34:00,5ca2126f435c8730,3,201,flood-057
+r-8179e5ee1a,foodcourt,food,Insect found near the serving counter at Food Court,2026-01-11 12:34:00,594a776e9b3a453d,3,201,flood-057
+r-11d80f1cc9,block_a,electrical,No electricity in the Computer Science Block corridor since twenty minutes,2026-01-11 14:25:00,b9d45e47ad344f68,2,100,flood-055
+r-b4e7065a35,block_a,electrical,No electricity in the Computer Science Block corridor since twenty minutes,2026-01-11 14:27:00,ccaabf5c53b216ad,2,100,flood-055
+r-fb2394b948,block_a,electrical,Lights flickering and a burning smell in Computer Science Block,2026-01-11 14:31:00,bd7cb3788965ba72,2,100,flood-055
+r-5ae11011c1,block_a,electrical,Lights flickering and a burning smell in Computer Science Block,2026-01-11 14:34:00,99987a5929f591af,2,100,flood-055
+r-55c3992ede,block_a,electrical,"Power socket sparked in Computer Science Block, please check immediately",2026-01-11 14:36:00,6657f897d6f9eb16,2,100,flood-055
+r-555f06b689,gate_north,electrical,"Power socket sparked in North Gate, please check immediately",2026-01-12 04:52:00,e56453d2da958c5d,3,141,single-043
+r-ce84392a71,block_a,wifi,Computer Science Block has zero signal bars and the hotspot says no internet,2026-01-12 12:09:00,9fdf119dabc8fb6a,2,139,flood-048
+r-ae272a9e53,block_a,wifi,"Campus wifi not working in Computer Science Block, authentication keeps failing",2026-01-12 12:11:00,5268d9448724f407,2,139,flood-048
+r-ddb6c07d56,block_a,wifi,Wi-Fi keeps dropping near Computer Science Block since the last ten minutes,2026-01-12 12:12:00,5a90846a4eba6189,2,139,flood-048
+r-2cc8eeb70d,block_a,wifi,"Internet down in Computer Science Block, the whole floor is affected",2026-01-12 12:13:00,1ecf0c7bb49b000c,2,139,flood-048
+r-5642ada92a,block_a,wifi,"No internet in Computer Science Block, eduroam shows connected but nothing loads",2026-01-12 12:13:00,6b59aa8392a6eb3e,2,139,flood-048
+r-1a221efb0d,block_a,wifi,Frequent disconnections on the Computer Science Block access point tonight,2026-01-12 12:13:00,2c3662e162eb959a,2,139,flood-048
+r-bf46c66c78,block_a,wifi,"Internet down in Computer Science Block, the whole floor is affected",2026-01-12 12:14:00,80da4a4e4e665c73,2,139,flood-048
+r-0aaabdd9e1,block_a,wifi,Frequent disconnections on the Computer Science Block access point tonight,2026-01-12 12:16:00,8fa7084907a1bffe,2,139,flood-048
+r-1c968f3324,canteen_north,food,Insect found near the serving counter at North Canteen,2026-01-12 13:59:00,3b6547e54e6ac69e,2,146,flood-049
+r-bf84ad7ea4,canteen_north,food,"Food smells stale at North Canteen, please check the batch",2026-01-12 14:00:00,3e70883a1b996fae,2,146,flood-049
+r-238840be07,canteen_north,food,"Food smells stale at North Canteen, please check the batch",2026-01-12 14:00:00,cc64f7658af9d8ff,2,146,flood-049
+r-1e4b7b9a57,canteen_north,food,"Curry at North Canteen has a strange smell, please inspect",2026-01-12 14:01:00,900621cc117c070a,2,146,flood-049
+r-444b80ffaf,canteen_north,food,"Curry at North Canteen has a strange smell, please inspect",2026-01-12 14:01:00,91dbeb0feb368a57,2,146,flood-049
+r-42be1f4cbe,canteen_north,food,"Hygiene issue at the North Canteen counter, plates look unwashed",2026-01-12 14:02:00,d53fea9fba7a8525,2,146,flood-049
+r-dc27cd56b8,canteen_north,food,"Curry at North Canteen has a strange smell, please inspect",2026-01-12 14:04:00,75375140586b3f82,2,146,flood-049
+r-677b8e001a,canteen_north,food,"Curry at North Canteen has a strange smell, please inspect",2026-01-12 14:05:00,288bcd0c8d197f4c,2,146,flood-049
+r-5d5a2ec426,canteen_north,food,"Food smells stale at North Canteen, please check the batch",2026-01-12 14:06:00,9ad4aaeab96041d5,2,146,flood-049
+r-d811f47e7a,canteen_north,food,"Curry at North Canteen has a strange smell, please inspect",2026-01-12 14:07:00,0c54f383acbf2a24,2,146,flood-049
+r-eb4e26f393,canteen_north,food,The milk at North Canteen tastes sour today,2026-01-12 14:08:00,d8eaa8f961b72e69,2,146,flood-049
+r-d6c715cc70,canteen_north,food,The milk at North Canteen tastes sour today,2026-01-12 14:08:00,5c95fc626e6bbaa4,2,146,flood-049
+r-6ae4651c40,canteen_north,food,The milk at North Canteen tastes sour today,2026-01-12 14:08:00,b02e06d1c6719945,2,146,flood-049
+r-36f04c33a0,canteen_north,food,Undercooked rice served at North Canteen during lunch,2026-01-12 14:09:00,60b775d9463dcbde,2,146,flood-049
+r-e5c7ccb1cb,canteen_north,food,"Hygiene issue at the North Canteen counter, plates look unwashed",2026-01-12 14:09:00,8b51e740ae646689,2,146,flood-049
+r-dad758c57d,canteen_north,food,Undercooked rice served at North Canteen during lunch,2026-01-12 14:09:00,c892d5e379bd990b,2,146,flood-049
+r-4e03d3740a,canteen_main,plumbing,"Pipe burst near Main Canteen, please send someone fast",2026-01-13 08:26:00,79741bc7fd560e25,1,50,single-069
+r-a23abdc93d,library,infrastructure,"Ceiling tile fell down in Central Library, area is unsafe",2026-01-13 10:52:00,ff8b62810b73dd9f,2,158,flood-064
+r-0292a7a895,library,infrastructure,"Ceiling tile fell down in Central Library, area is unsafe",2026-01-13 10:54:00,b5b21e8afcb8685e,2,158,flood-064
+r-c5a5fffd02,library,infrastructure,"Cracked pavement outside Central Library, trip hazard",2026-01-13 10:54:00,4e10005a33cc97fd,2,158,flood-064
+r-c546479ca5,library,infrastructure,"Lift stuck between floors at Central Library, please check",2026-01-13 10:56:00,9a527781f5234eb4,2,158,flood-064
+r-786a2dce5e,library,infrastructure,"Ceiling tile fell down in Central Library, area is unsafe",2026-01-13 10:57:00,6ef9a057bfcebc6f,2,158,flood-064
+r-0dd2101559,library,infrastructure,Window glass cracked in Central Library after the storm,2026-01-13 10:58:00,5c25f41bac152b0c,2,158,flood-064
+r-ced5e4a483,library,infrastructure,"Cracked pavement outside Central Library, trip hazard",2026-01-13 10:59:00,d60e324bc7764193,2,158,flood-064
+r-4e6ed4212a,library,infrastructure,"Ceiling tile fell down in Central Library, area is unsafe",2026-01-13 10:59:00,71086a078a4955cf,2,158,flood-064
+r-17b06fab5f,library,infrastructure,"Cracked pavement outside Central Library, trip hazard",2026-01-13 11:00:00,4ff471406a55d62a,2,158,flood-064
+r-d4cd45ea68,library,infrastructure,"Lift stuck between floors at Central Library, please check",2026-01-13 11:00:00,f6401b7cf5bac866,2,158,flood-064
+r-c09586a487,library,infrastructure,"Ceiling tile fell down in Central Library, area is unsafe",2026-01-13 11:04:00,332fd34f7dd166e1,2,158,flood-064
+r-9c296c4901,hostel_b1,electrical,Lights flickering and a burning smell in Boys Hostel B1,2026-01-13 19:39:00,9c0f15fdaa027d22,2,155,flood-054
+r-4686bc197f,hostel_b1,electrical,"Fan and lights dead in Boys Hostel B1, main switch looks tripped",2026-01-13 19:40:00,31bf099ced1db651,2,155,flood-054
+r-40f187d596,hostel_b1,electrical,"Fan and lights dead in Boys Hostel B1, main switch looks tripped",2026-01-13 19:41:00,c411946968461df8,2,155,flood-054
+r-cd1f6766de,hostel_b1,electrical,"Power socket sparked in Boys Hostel B1, please check immediately",2026-01-13 19:41:00,6654f511516a26f8,2,155,flood-054
+r-639163866b,hostel_b1,electrical,No electricity in the Boys Hostel B1 corridor since twenty minutes,2026-01-13 19:42:00,b2c5b85ddbf5a08d,2,155,flood-054
+r-4eb7740944,foodcourt,food,"Hygiene issue at the Food Court counter, plates look unwashed",2026-01-13 21:39:00,bf2f6d8a94322e56,1,91,flood-013
+r-a25184f814,foodcourt,food,"Food smells stale at Food Court, please check the batch",2026-01-13 21:39:00,bf4a73ed8abe40af,1,91,flood-013
+r-c665aaa9a7,foodcourt,food,The milk at Food Court tastes sour today,2026-01-13 21:40:00,dbe3ec39bd6fd7fa,1,91,flood-013
+r-472f39a46a,foodcourt,food,Undercooked rice served at Food Court during lunch,2026-01-13 21:40:00,67b241285636b167,1,91,flood-013
+r-bece64d2c8,foodcourt,food,The milk at Food Court tastes sour today,2026-01-13 21:44:00,7ed3ac4445dddc83,1,91,flood-013
+r-45d3647129,foodcourt,food,Undercooked rice served at Food Court during lunch,2026-01-13 21:49:00,0d03ef8ef53e39d7,1,91,flood-013
+r-2b6787dca2,laundry,safety,"Streetlight is off on the path near Laundry Block, it is very dark",2026-01-14 07:50:00,be1e7c68d94e4bb7,3,205,flood-040
+r-4972b0ab5a,laundry,safety,"Streetlight is off on the path near Laundry Block, it is very dark",2026-01-14 07:51:00,1cae23a884f4b29d,3,205,flood-040
+r-0d4c5fa21d,laundry,safety,"Streetlight is off on the path near Laundry Block, it is very dark",2026-01-14 07:52:00,b1c76c8fdf23cf60,3,205,flood-040
+r-e642a2cbba,laundry,safety,"Slippery floor near Laundry Block, someone almost fell",2026-01-14 07:53:00,1ac2aa48aafdf0d9,3,205,flood-040
+r-6e8453607c,laundry,safety,"Streetlight is off on the path near Laundry Block, it is very dark",2026-01-14 07:54:00,8aa40bb8aa5ff054,3,205,flood-040
+r-bf4547105e,laundry,safety,"Slippery floor near Laundry Block, someone almost fell",2026-01-14 07:55:00,146008864e2aa427,3,205,flood-040
+r-4c17b59471,laundry,safety,"Stray dog pack near Laundry Block, students are scared to walk",2026-01-14 07:56:00,4650d71d7b25d3fa,3,205,flood-040
+r-44d0476fdd,laundry,safety,Group loitering and passing comments near Laundry Block,2026-01-14 07:57:00,0d4ba22f4e81b44c,3,205,flood-040
+r-c78ee411bf,laundry,safety,Group loitering and passing comments near Laundry Block,2026-01-14 07:58:00,66cd8cb2487446bb,3,205,flood-040
+r-7ea72cbdea,canteen_main,cleanliness,"Spilled food on the floor at Main Canteen, nobody is cleaning it",2026-01-14 13:03:00,38948f3651ee3d67,0,10,single-046
+r-f580f53cdd,library,infrastructure,"Lift stuck between floors at Central Library, please check",2026-01-14 16:21:00,d89f411404782b47,2,124,flood-075
+r-33e0ed168a,library,infrastructure,Broken chair and exposed nail in the Central Library seating area,2026-01-14 16:24:00,8d6c23cef6339e6e,2,124,flood-075
+r-8b9ca987ef,library,infrastructure,"Cracked pavement outside Central Library, trip hazard",2026-01-14 16:26:00,12aa76a426799c2f,2,124,flood-075
+r-c2f27d15aa,library,infrastructure,Window glass cracked in Central Library after the storm,2026-01-14 16:26:00,0d9f8abee302cca5,2,124,flood-075
+r-157ff3e673,library,infrastructure,Broken chair and exposed nail in the Central Library seating area,2026-01-14 16:29:00,1e1e4ad6ed72cc1d,2,124,flood-075
+r-5ab3101568,library,infrastructure,"Lift stuck between floors at Central Library, please check",2026-01-14 16:30:00,ea605b700a5a5c74,2,124,flood-075
+r-41c9849d04,library,infrastructure,Window glass cracked in Central Library after the storm,2026-01-14 16:30:00,60f3a69da8a41349,2,124,flood-075
+r-e5123e32b2,library,infrastructure,Window glass cracked in Central Library after the storm,2026-01-14 16:31:00,7d95e0225c9df0b3,2,124,flood-075
+r-5e9db2f4fd,library,infrastructure,Broken chair and exposed nail in the Central Library seating area,2026-01-14 16:32:00,4c81840171348366,2,124,flood-075
+r-b8f60017f2,hostel_g1,plumbing,"Washroom drain blocked in Girls Hostel G1, water is standing",2026-01-14 16:37:00,a3e88396a474b34b,2,155,flood-015
+r-d84fab62b5,hostel_g1,plumbing,"Leaking joint under the sink in Girls Hostel G1, floor is slippery",2026-01-14 16:41:00,38165fd19db24e51,2,155,flood-015
+r-7ab5fecbf3,hostel_g1,plumbing,Water leaking from the ceiling in Girls Hostel G1,2026-01-14 16:43:00,5a68deb9fb3566c2,2,155,flood-015
+r-588a0ec6aa,hostel_g1,plumbing,Tap is overflowing in Girls Hostel G1 and water is spreading,2026-01-14 16:49:00,18d22e72750ce3fb,2,155,flood-015
+r-f4233812ad,hostel_g1,plumbing,Water leaking from the ceiling in Girls Hostel G1,2026-01-14 16:49:00,12ea09ee0e45be76,2,155,flood-015
+r-7fbf7e4f18,hostel_g1,plumbing,Tap is overflowing in Girls Hostel G1 and water is spreading,2026-01-14 16:50:00,dd368a3b862b05ef,2,155,flood-015
+r-81c9a23108,hostel_g1,plumbing,Water leaking from the ceiling in Girls Hostel G1,2026-01-14 16:50:00,3c44b23dd69d6ad2,2,155,flood-015
+r-8209345b4a,hostel_g1,plumbing,Water leaking from the ceiling in Girls Hostel G1,2026-01-14 16:54:00,3a0d3597774ae189,2,155,flood-015
+r-cb4a1e11d2,hostel_g1,plumbing,"Leaking joint under the sink in Girls Hostel G1, floor is slippery",2026-01-14 16:54:00,11590e75c73f7628,2,155,flood-015
+r-4ae6e2b1b7,hostel_g1,plumbing,Tap is overflowing in Girls Hostel G1 and water is spreading,2026-01-14 16:54:00,6a822ce7f0484fbc,2,155,flood-015
+r-7a927846a6,mess_main,food,"Hygiene issue at the Main Mess counter, plates look unwashed",2026-01-14 20:20:00,7b0a91cb668dd979,2,89,single-008
+r-428e736b2f,hostel_g1,plumbing,Water leaking from the ceiling in Girls Hostel G1,2026-01-15 08:13:00,87ef5c4bb920c0f4,2,98,flood-082
+r-5b9edaff8f,hostel_g1,plumbing,No water supply in the Girls Hostel G1 washroom since morning,2026-01-15 08:15:00,4c6565227f60ebcb,2,98,flood-082
+r-809a75dc33,hostel_g1,plumbing,Tap is overflowing in Girls Hostel G1 and water is spreading,2026-01-15 08:16:00,2875a43aa3a2a3c5,2,98,flood-082
+r-082ec9312b,hostel_g1,plumbing,Tap is overflowing in Girls Hostel G1 and water is spreading,2026-01-15 08:18:00,51cc6b98e7ab3eb8,2,98,flood-082
+r-5517fb203d,hostel_g1,plumbing,No water supply in the Girls Hostel G1 washroom since morning,2026-01-15 08:18:00,3e5cc02bd0c9b3c5,2,98,flood-082
+r-dd2a1ff17c,hostel_g1,plumbing,No water supply in the Girls Hostel G1 washroom since morning,2026-01-15 08:20:00,0b397aaad6dfc568,2,98,flood-082
+r-dc0c3a3e0d,hostel_g1,plumbing,Tap is overflowing in Girls Hostel G1 and water is spreading,2026-01-15 08:22:00,b610ff4b48c6755f,2,98,flood-082
+r-34321fd31f,hostel_g1,plumbing,"Pipe burst near Girls Hostel G1, please send someone fast",2026-01-15 08:23:00,8693b540d30b19b7,2,98,flood-082
+r-be6afde179,hostel_g1,plumbing,Tap is overflowing in Girls Hostel G1 and water is spreading,2026-01-15 08:26:00,b9979c7448f01e56,2,98,flood-082
+r-dfd3d4ba81,hostel_g1,plumbing,"Washroom drain blocked in Girls Hostel G1, water is standing",2026-01-15 08:28:00,e214ecde95679e05,2,98,flood-082
+r-d57bdab891,laundry,safety,Suspicious person following students near Laundry Block after dark,2026-01-15 09:41:00,eb74efe2ec62f6ff,2,115,single-040
+r-275ec54ef4,mess_north,cleanliness,Tables at North Mess are sticky and uncleaned,2026-01-15 15:14:00,59c4f58d80633531,0,31,single-003
+r-f042099d03,hostel_b1,infrastructure,Broken chair and exposed nail in the Boys Hostel B1 seating area,2026-01-16 01:25:00,036736150f129aab,1,55,single-019
+r-8728d819e9,library,wifi,"Campus wifi not working in Central Library, authentication keeps failing",2026-01-16 21:17:00,6a4e53946fa7faaa,2,133,flood-071
+r-1ce66eb531,library,wifi,"No internet in Central Library, eduroam shows connected but nothing loads",2026-01-16 21:17:00,9b60df0f1e5f8ae8,2,133,flood-071
+r-43903beb0d,library,wifi,Wi-Fi keeps dropping near Central Library since the last ten minutes,2026-01-16 21:18:00,5c330177e6c8bd18,2,133,flood-071
+r-db3233108c,library,wifi,"Internet down in Central Library, the whole floor is affected",2026-01-16 21:18:00,abbdae20622ec602,2,133,flood-071
+r-a882934846,library,wifi,"Internet down in Central Library, the whole floor is affected",2026-01-16 21:19:00,e7efc2b77c30dc30,2,133,flood-071
+r-3a49d3c00b,library,wifi,Wi-Fi keeps dropping near Central Library since the last ten minutes,2026-01-16 21:19:00,b6994dcc567239cb,2,133,flood-071
+r-e28f45d33e,library,wifi,Frequent disconnections on the Central Library access point tonight,2026-01-16 21:19:00,c0aa6d5e55661574,2,133,flood-071
+r-ae1b315f60,library,wifi,Wifi is dead in the Central Library wing and nobody can submit assignments,2026-01-16 21:20:00,1e9b50a4941a02f9,2,133,flood-071
+r-672066e8e3,library,wifi,Wi-Fi keeps dropping near Central Library since the last ten minutes,2026-01-16 21:20:00,bc1d083b4405ace7,2,133,flood-071
+r-b8fc0e8719,library,wifi,"No internet in Central Library, eduroam shows connected but nothing loads",2026-01-16 21:23:00,3a38615dee943a5b,2,133,flood-071
+r-0c9c58fca5,library,wifi,Frequent disconnections on the Central Library access point tonight,2026-01-16 21:23:00,54980cfff98898d0,2,133,flood-071
+r-b03ffd9447,library,wifi,"Internet down in Central Library, the whole floor is affected",2026-01-16 21:23:00,125fa37536a38dc7,2,133,flood-071
+r-7024812373,library,wifi,"Internet down in Central Library, the whole floor is affected",2026-01-16 21:24:00,87f9acfc5fcb78b1,2,133,flood-071
+r-bdc9a3c6c1,library,wifi,"Cannot connect to eduroam in Central Library, it times out every time",2026-01-16 21:24:00,ed4fda0f161f2349,2,133,flood-071
+r-0a230bfe51,library,wifi,Wifi is dead in the Central Library wing and nobody can submit assignments,2026-01-16 21:24:00,2061536b24617927,2,133,flood-071
+r-b758d8eb84,library,wifi,"Internet down in Central Library, the whole floor is affected",2026-01-16 21:24:00,a8c8d6c0dec9bc50,2,133,flood-071
+r-3bc0f76952,library,wifi,Frequent disconnections on the Central Library access point tonight,2026-01-16 21:25:00,1a0e80f58100064a,2,133,flood-071
+r-0d2041aed5,library,wifi,Wifi is dead in the Central Library wing and nobody can submit assignments,2026-01-16 21:26:00,05c9e98e243afdb7,2,133,flood-071
+r-3e547a7957,hostel_b2,wifi,Frequent disconnections on the Boys Hostel B2 access point tonight,2026-01-17 07:40:00,5f1fce396a97e9bd,0,10,single-010
+r-cd7eb4519a,block_a,electrical,Lights flickering and a burning smell in Computer Science Block,2026-01-17 07:58:00,0c966f1a4b0f105b,2,121,single-050
+r-699a91283a,vending_hub,food,Undercooked rice served at Vending & ATM Hub during lunch,2026-01-17 16:01:00,11c9823503133de0,2,105,single-065
+r-7e2ddc13c3,vending_hub,cleanliness,Dustbins not cleared outside Vending & ATM Hub for two days,2026-01-17 18:06:00,7d4365060f02974c,1,81,flood-073
+r-da32e3c490,vending_hub,cleanliness,Washroom at Vending & ATM Hub is dirty and out of soap,2026-01-17 18:06:00,e858300e12c31f21,1,81,flood-073
+r-bc45c844ed,vending_hub,cleanliness,Litter all around the Vending & ATM Hub seating area,2026-01-17 18:09:00,3fd85ac6b9f1eb68,1,81,flood-073
+r-d0c6473318,vending_hub,cleanliness,Tables at Vending & ATM Hub are sticky and uncleaned,2026-01-17 18:09:00,ad46544c78d172ea,1,81,flood-073
+r-caaa8422d4,vending_hub,cleanliness,Dustbins not cleared outside Vending & ATM Hub for two days,2026-01-17 18:10:00,bd591c789522e11d,1,81,flood-073
+r-3f0bebc80b,vending_hub,cleanliness,Tables at Vending & ATM Hub are sticky and uncleaned,2026-01-17 18:11:00,f5126bf9c3a60381,1,81,flood-073
+r-ba894cc9ac,vending_hub,cleanliness,Garbage bins overflowing at Vending & ATM Hub,2026-01-17 18:12:00,8a397e74124b3799,1,81,flood-073
+r-660d5414b7,vending_hub,cleanliness,Washroom at Vending & ATM Hub is dirty and out of soap,2026-01-17 18:15:00,4eb544bb8197d242,1,81,flood-073
+r-74f681e23d,vending_hub,cleanliness,Garbage bins overflowing at Vending & ATM Hub,2026-01-17 18:15:00,b19ac0f1545a2ebf,1,81,flood-073
+r-26ef52b0ce,vending_hub,cleanliness,Tables at Vending & ATM Hub are sticky and uncleaned,2026-01-17 18:16:00,22279612051a21c7,1,81,flood-073
+r-c81bf78e53,vending_hub,cleanliness,Washroom at Vending & ATM Hub is dirty and out of soap,2026-01-17 18:16:00,753946fe397eac8e,1,81,flood-073
+r-ccc20d1f61,vending_hub,cleanliness,Garbage bins overflowing at Vending & ATM Hub,2026-01-17 18:17:00,886fe2c7ab02da5d,1,81,flood-073
+r-190a0a1226,vending_hub,cleanliness,Washroom at Vending & ATM Hub is dirty and out of soap,2026-01-17 18:18:00,fc88e461ee84b034,1,81,flood-073
+r-325f8db650,vending_hub,cleanliness,Washroom at Vending & ATM Hub is dirty and out of soap,2026-01-17 18:19:00,1519725fef5c3c63,1,81,flood-073
+r-0431f2d13d,vending_hub,cleanliness,"Spilled food on the floor at Vending & ATM Hub, nobody is cleaning it",2026-01-17 18:20:00,38b6e624f56a2dc7,1,81,flood-073
+r-be04ddcc71,vending_hub,cleanliness,Garbage bins overflowing at Vending & ATM Hub,2026-01-17 18:20:00,9558b0c872e56d86,1,81,flood-073
+r-fd5e63a7fc,vending_hub,cleanliness,Litter all around the Vending & ATM Hub seating area,2026-01-17 18:20:00,770e0a6c9aab88f4,1,81,flood-073
+r-d1c510ac22,vending_hub,cleanliness,Washroom at Vending & ATM Hub is dirty and out of soap,2026-01-17 18:21:00,1cbb66745e64ad45,1,81,flood-073
+r-50f8cbdedf,block_d,electrical,The Civil & Design Block breaker keeps tripping every few minutes,2026-01-18 16:26:00,7de56fe62fb607c7,3,211,flood-076
+r-3b0a42cdf9,block_d,electrical,The Civil & Design Block breaker keeps tripping every few minutes,2026-01-18 16:26:00,3a1f62656dd8d517,3,211,flood-076
+r-eb98726102,block_d,electrical,"Fan and lights dead in Civil & Design Block, main switch looks tripped",2026-01-18 16:26:00,9d9509c4a5e924de,3,211,flood-076
+r-0931a019ab,block_d,electrical,"Power socket sparked in Civil & Design Block, please check immediately",2026-01-18 16:27:00,a44305921515e2fe,3,211,flood-076
+r-a3e6f0fef9,block_d,electrical,"Power socket sparked in Civil & Design Block, please check immediately",2026-01-18 16:27:00,796e6f02b84e666b,3,211,flood-076
+r-78ab48c208,block_d,electrical,The Civil & Design Block breaker keeps tripping every few minutes,2026-01-18 16:27:00,804049487e81e776,3,211,flood-076
+r-20edb6bb1c,block_d,electrical,No electricity in the Civil & Design Block corridor since twenty minutes,2026-01-18 16:28:00,e769c384c0ac525c,3,211,flood-076
+r-e390fa7f60,block_d,electrical,"Power socket sparked in Civil & Design Block, please check immediately",2026-01-18 16:29:00,bc3be0bde24a9f32,3,211,flood-076
+r-17210526b1,block_d,electrical,"Power socket sparked in Civil & Design Block, please check immediately",2026-01-18 16:29:00,37d354139b872397,3,211,flood-076
+r-a346bbacb5,block_c,wifi,"Internet down in Mechanical Block, the whole floor is affected",2026-01-18 21:07:00,3fec98bc3d3e10b8,2,114,flood-039
+r-57e55fd606,block_c,wifi,"Cannot connect to eduroam in Mechanical Block, it times out every time",2026-01-18 21:08:00,19b76f28bac753db,2,114,flood-039
+r-e3897f5179,block_c,wifi,"Internet down in Mechanical Block, the whole floor is affected",2026-01-18 21:10:00,c6f1c9df3997ade6,2,114,flood-039
+r-ea089ca094,block_c,wifi,"Campus wifi not working in Mechanical Block, authentication keeps failing",2026-01-18 21:12:00,b0c15c00f02f4eae,2,114,flood-039
+r-250129715a,block_c,wifi,Wi-Fi keeps dropping near Mechanical Block since the last ten minutes,2026-01-18 21:12:00,c224a45ba89b109a,2,114,flood-039
+r-f8bc8880b9,block_c,wifi,Frequent disconnections on the Mechanical Block access point tonight,2026-01-18 21:13:00,b364930a86466aec,2,114,flood-039
+r-1f0ac5eb2f,block_c,wifi,Wi-Fi keeps dropping near Mechanical Block since the last ten minutes,2026-01-18 21:16:00,c333233c557fa7cd,2,114,flood-039
+r-a65b7f9e14,block_c,wifi,"No internet in Mechanical Block, eduroam shows connected but nothing loads",2026-01-18 21:16:00,32ef16ce2fe6346d,2,114,flood-039
+r-71b77e9f32,block_c,wifi,"Campus wifi not working in Mechanical Block, authentication keeps failing",2026-01-18 21:17:00,80139dfe0b03e41b,2,114,flood-039
+r-b236f150c2,block_c,wifi,"Internet down in Mechanical Block, the whole floor is affected",2026-01-18 21:17:00,22516312ff812584,2,114,flood-039
+r-ab8034be1e,block_c,wifi,"No internet in Mechanical Block, eduroam shows connected but nothing loads",2026-01-18 21:17:00,3d4127aa2916d5a3,2,114,flood-039
+r-010a48cfbe,block_c,wifi,"Cannot connect to eduroam in Mechanical Block, it times out every time",2026-01-18 21:18:00,83a00d06bdfd2404,2,114,flood-039
+r-4bfc16bdfb,block_c,wifi,Wifi is dead in the Mechanical Block wing and nobody can submit assignments,2026-01-18 21:18:00,0f193c81ec7105a1,2,114,flood-039
+r-12eded97c7,block_c,wifi,Frequent disconnections on the Mechanical Block access point tonight,2026-01-18 21:19:00,22f56b3dfa876d4e,2,114,flood-039
+r-5fb5da339f,block_c,wifi,"No internet in Mechanical Block, eduroam shows connected but nothing loads",2026-01-18 21:19:00,d7127637e8861c4d,2,114,flood-039
+r-69cd18f199,library,wifi,"No internet in Central Library, eduroam shows connected but nothing loads",2026-01-19 06:00:00,d4abdb88ccb53a53,1,76,single-013
+r-61a844abd7,canteen_north,cleanliness,"Spilled food on the floor at North Canteen, nobody is cleaning it",2026-01-19 06:48:00,7a142548d3636570,0,21,single-058
+r-d0aee0a7cf,mess_main,cleanliness,Washroom at Main Mess is dirty and out of soap,2026-01-19 07:26:00,d83c05e9f187dd56,1,85,flood-042
+r-6401ce55d8,mess_main,cleanliness,Tables at Main Mess are sticky and uncleaned,2026-01-19 07:29:00,291fff1ba4960ada,1,85,flood-042
+r-1b41ab2e03,mess_main,cleanliness,Garbage bins overflowing at Main Mess,2026-01-19 07:30:00,7dcffc76d149507f,1,85,flood-042
+r-a797c63b77,mess_main,cleanliness,Washroom at Main Mess is dirty and out of soap,2026-01-19 07:31:00,5a55e244795a0654,1,85,flood-042
+r-2a8d554073,mess_main,cleanliness,Washroom at Main Mess is dirty and out of soap,2026-01-19 07:34:00,27be4648abb4e5ea,1,85,flood-042
+r-1e2cbe556b,mess_main,cleanliness,Litter all around the Main Mess seating area,2026-01-19 07:34:00,2b007b3599836003,1,85,flood-042
+r-c6aabe3223,mess_main,cleanliness,Washroom at Main Mess is dirty and out of soap,2026-01-19 07:36:00,63e57bb21341ffae,1,85,flood-042
+r-03365a1908,mess_main,cleanliness,"Spilled food on the floor at Main Mess, nobody is cleaning it",2026-01-19 07:36:00,a92199c93ea4514f,1,85,flood-042
+r-51b121fe55,mess_main,cleanliness,Garbage bins overflowing at Main Mess,2026-01-19 07:36:00,d45fab1dc1a01e95,1,85,flood-042
+r-f7373e9541,mess_main,cleanliness,Tables at Main Mess are sticky and uncleaned,2026-01-19 07:37:00,a7e91d2f47ea7dbb,1,85,flood-042
+r-8d9dd55918,mess_main,cleanliness,"Spilled food on the floor at Main Mess, nobody is cleaning it",2026-01-19 07:39:00,04930a5db26b5662,1,85,flood-042
+r-a4a9e075d0,mess_main,cleanliness,Tables at Main Mess are sticky and uncleaned,2026-01-19 07:39:00,949b6dfdd3e0b9eb,1,85,flood-042
+r-399d587272,mess_main,cleanliness,Garbage bins overflowing at Main Mess,2026-01-19 07:40:00,dcbf623d95310205,1,85,flood-042
+r-03d932ccdc,mess_main,cleanliness,Washroom at Main Mess is dirty and out of soap,2026-01-19 07:41:00,a9ac5ec48e366abe,1,85,flood-042
+r-c90c5c14e2,mess_main,cleanliness,Dustbins not cleared outside Main Mess for two days,2026-01-19 07:41:00,d3b61a978e9ad676,1,85,flood-042
+r-53775c44de,mess_main,cleanliness,Litter all around the Main Mess seating area,2026-01-19 07:43:00,dbc693a884874b0c,1,85,flood-042
+r-51c57dacea,sports,safety,Group loitering and passing comments near Sports Complex,2026-01-19 11:11:00,dc2145062d9a3eb2,3,189,flood-085
+r-87e824148e,sports,safety,"Streetlight is off on the path near Sports Complex, it is very dark",2026-01-19 11:11:00,5cb69144c08691af,3,189,flood-085
+r-a4a0808328,sports,safety,"Streetlight is off on the path near Sports Complex, it is very dark",2026-01-19 11:11:00,74f32f2ffcc63054,3,189,flood-085
+r-cbce874463,sports,safety,Group loitering and passing comments near Sports Complex,2026-01-19 11:13:00,156582b22108c435,3,189,flood-085
+r-988410e69e,sports,safety,Group loitering and passing comments near Sports Complex,2026-01-19 11:13:00,11472867a0e43580,3,189,flood-085
+r-7c1c24e73d,sports,safety,Emergency exit near Sports Complex is blocked by parked carts,2026-01-19 11:14:00,9a9ff26826738be7,3,189,flood-085
+r-858937e27b,sports,safety,"Streetlight is off on the path near Sports Complex, it is very dark",2026-01-19 11:14:00,9cf979825d6af871,3,189,flood-085
+r-675363a03f,sports,safety,"Slippery floor near Sports Complex, someone almost fell",2026-01-19 11:16:00,c00d5b75ba1bb489,3,189,flood-085
+r-1c9d3f44d5,sports,safety,"Streetlight is off on the path near Sports Complex, it is very dark",2026-01-19 11:16:00,9849341e5e8366fb,3,189,flood-085
+r-1fd63b38f1,sports,safety,"Stray dog pack near Sports Complex, students are scared to walk",2026-01-19 11:16:00,b28463ea169619ea,3,189,flood-085
+r-072eee1997,sports,safety,"Stray dog pack near Sports Complex, students are scared to walk",2026-01-19 11:16:00,362c0eea903252b3,3,189,flood-085
+r-4058f6a4c5,sports,safety,Group loitering and passing comments near Sports Complex,2026-01-19 11:17:00,aac4528f900583f8,3,189,flood-085
+r-4abb0c3c56,sports,safety,"Slippery floor near Sports Complex, someone almost fell",2026-01-19 11:17:00,c3a943c105ae4243,3,189,flood-085
+r-2c6bceae97,sports,safety,"Slippery floor near Sports Complex, someone almost fell",2026-01-19 11:17:00,bc3e793d62a8f3b3,3,189,flood-085
+r-6c11111871,sports,safety,Suspicious person following students near Sports Complex after dark,2026-01-19 11:18:00,2bc672c04c229982,3,189,flood-085
+r-a32808ac1b,amphitheatre,infrastructure,"Cracked pavement outside Open Air Amphitheatre, trip hazard",2026-01-19 12:28:00,0a9a4354b303bf10,2,116,flood-083
+r-2725794b66,amphitheatre,infrastructure,"Door latch broken at Open Air Amphitheatre, it will not close",2026-01-19 12:29:00,ff1f94e56e40c0c4,2,116,flood-083
+r-348d877e9c,amphitheatre,infrastructure,Window glass cracked in Open Air Amphitheatre after the storm,2026-01-19 12:29:00,820d520103f3152f,2,116,flood-083
+r-0b26558262,amphitheatre,infrastructure,"Ceiling tile fell down in Open Air Amphitheatre, area is unsafe",2026-01-19 12:29:00,21de305df26f81b3,2,116,flood-083
+r-8301fbe366,amphitheatre,infrastructure,"Ceiling tile fell down in Open Air Amphitheatre, area is unsafe",2026-01-19 12:30:00,dedd91cd56774f81,2,116,flood-083
+r-00bf6083d5,amphitheatre,infrastructure,"Cracked pavement outside Open Air Amphitheatre, trip hazard",2026-01-19 12:30:00,ac152e0e4dd41073,2,116,flood-083
+r-d385ba7397,amphitheatre,infrastructure,"Cracked pavement outside Open Air Amphitheatre, trip hazard",2026-01-19 12:31:00,d8886d706e7812a5,2,116,flood-083
+r-8d84a7c82d,amphitheatre,infrastructure,"Door latch broken at Open Air Amphitheatre, it will not close",2026-01-19 12:32:00,948ff50095ba5d64,2,116,flood-083
+r-961cc8561f,amphitheatre,infrastructure,"Ceiling tile fell down in Open Air Amphitheatre, area is unsafe",2026-01-19 12:33:00,14c67163208656af,2,116,flood-083
+r-9ad983f95e,amphitheatre,infrastructure,"Cracked pavement outside Open Air Amphitheatre, trip hazard",2026-01-19 12:33:00,44f6bfda39709858,2,116,flood-083
+r-2108713764,amphitheatre,infrastructure,"Cracked pavement outside Open Air Amphitheatre, trip hazard",2026-01-19 12:34:00,5884131b4b3316df,2,116,flood-083
+r-3f75da4e41,amphitheatre,infrastructure,Window glass cracked in Open Air Amphitheatre after the storm,2026-01-19 12:34:00,71bc6bcedb443b8e,2,116,flood-083
+r-7dc8f31251,amphitheatre,infrastructure,"Lift stuck between floors at Open Air Amphitheatre, please check",2026-01-19 12:36:00,9143823a943e2968,2,116,flood-083
+r-16de6d9494,amphitheatre,infrastructure,"Ceiling tile fell down in Open Air Amphitheatre, area is unsafe",2026-01-19 12:38:00,5f1fce396a97e9bd,2,116,flood-083
+r-3a2c13a300,amphitheatre,infrastructure,"Cracked pavement outside Open Air Amphitheatre, trip hazard",2026-01-19 12:40:00,8e5ccc17fc5b9e6c,2,116,flood-083
+r-e1f6ec65cd,sports,food,"Food smells stale at Sports Complex, please check the batch",2026-01-21 08:15:00,431cf9b8b29cd4d8,2,100,single-006
+r-21c0676021,medical,plumbing,Tap is overflowing in Health Centre and water is spreading,2026-01-21 16:03:00,de620694feacbb2f,1,65,single-028
+r-3990199c86,block_c,safety,Emergency exit near Mechanical Block is blocked by parked carts,2026-01-21 19:36:00,d4d27f757e017f34,3,133,single-014
+r-f41302047c,library,infrastructure,"Cracked pavement outside Central Library, trip hazard",2026-01-22 09:22:00,2807afb0767a8e63,3,181,flood-014
+r-2e485d7773,library,infrastructure,"Cracked pavement outside Central Library, trip hazard",2026-01-22 09:22:00,4e865c50b7569816,3,181,flood-014
+r-a074a35bc5,library,infrastructure,"Ceiling tile fell down in Central Library, area is unsafe",2026-01-22 09:23:00,5a6ae490a1bf6b20,3,181,flood-014
+r-6475740145,library,infrastructure,"Cracked pavement outside Central Library, trip hazard",2026-01-22 09:24:00,0fb02af6ac473392,3,181,flood-014
+r-dfb85757b7,library,infrastructure,"Ceiling tile fell down in Central Library, area is unsafe",2026-01-22 09:24:00,0b963df023fe899d,3,181,flood-014
+r-7a92815c77,library,infrastructure,"Cracked pavement outside Central Library, trip hazard",2026-01-22 09:25:00,0369a291335fb46f,3,181,flood-014
+r-ed137108ae,library,infrastructure,Window glass cracked in Central Library after the storm,2026-01-22 09:26:00,e2f590ec02f01d34,3,181,flood-014
+r-852c55346e,library,infrastructure,Window glass cracked in Central Library after the storm,2026-01-22 09:28:00,49e229d69a558a9e,3,181,flood-014
+r-f8bd3d79e0,library,infrastructure,"Cracked pavement outside Central Library, trip hazard",2026-01-22 09:29:00,6106ab70f9548980,3,181,flood-014
+r-472deaa2b6,library,infrastructure,"Lift stuck between floors at Central Library, please check",2026-01-22 09:30:00,f944dbbbe1a15d79,3,181,flood-014
+r-510aa4c8f4,block_a,infrastructure,Broken chair and exposed nail in the Computer Science Block seating area,2026-01-23 00:51:00,e80475de198b6c58,1,72,single-031
+r-8a2646720a,hostel_b2,wifi,"Cannot connect to eduroam in Boys Hostel B2, it times out every time",2026-01-24 07:19:00,af85f1ceaed26de7,2,140,flood-027
+r-1ad00b7b58,hostel_b2,wifi,"No internet in Boys Hostel B2, eduroam shows connected but nothing loads",2026-01-24 07:21:00,df2bda27bff8815b,2,140,flood-027
+r-62b6c70050,hostel_b2,wifi,"Cannot connect to eduroam in Boys Hostel B2, it times out every time",2026-01-24 07:23:00,046d7a91701fb724,2,140,flood-027
+r-f0eb7ac9bf,hostel_b2,wifi,"Campus wifi not working in Boys Hostel B2, authentication keeps failing",2026-01-24 07:23:00,23364dd725a0e06e,2,140,flood-027
+r-de45b2f200,hostel_b2,wifi,"No internet in Boys Hostel B2, eduroam shows connected but nothing loads",2026-01-24 07:26:00,c9bb6f2bb0821dc7,2,140,flood-027
+r-982474477b,hostel_b2,wifi,"Internet down in Boys Hostel B2, the whole floor is affected",2026-01-24 07:26:00,1daac07929b33e38,2,140,flood-027
+r-780bdfaed2,hostel_b2,wifi,Wifi is dead in the Boys Hostel B2 wing and nobody can submit assignments,2026-01-24 07:27:00,abed9d6132a9104f,2,140,flood-027
+r-d53c225feb,hostel_b2,wifi,Boys Hostel B2 has zero signal bars and the hotspot says no internet,2026-01-24 07:27:00,eec71448a55737f6,2,140,flood-027
+r-efd4058c3b,hostel_b2,wifi,Frequent disconnections on the Boys Hostel B2 access point tonight,2026-01-24 07:28:00,faf210c7d2110021,2,140,flood-027
+r-2d7d62acca,hostel_b2,wifi,"Campus wifi not working in Boys Hostel B2, authentication keeps failing",2026-01-24 07:29:00,cae497623f38e388,2,140,flood-027
+r-23652faf66,hostel_b2,wifi,"No internet in Boys Hostel B2, eduroam shows connected but nothing loads",2026-01-24 07:30:00,48dea6bc3364315a,2,140,flood-027
+r-f8f36e0652,hostel_b2,wifi,"Cannot connect to eduroam in Boys Hostel B2, it times out every time",2026-01-24 07:31:00,e1f7b0d5758bca98,2,140,flood-027
+r-4e3ac1b62e,hostel_b2,wifi,"No internet in Boys Hostel B2, eduroam shows connected but nothing loads",2026-01-24 07:32:00,ca043c3f146c455d,2,140,flood-027
+r-09c1642bd7,hostel_b2,wifi,Boys Hostel B2 has zero signal bars and the hotspot says no internet,2026-01-24 07:34:00,f5e8b9a2e435ef3f,2,140,flood-027
+r-02e8dd7a28,block_a,wifi,"Cannot connect to eduroam in Computer Science Block, it times out every time",2026-01-24 11:36:00,da2ce612ef36fef6,2,126,flood-062
+r-87a09b0f63,block_a,wifi,"No internet in Computer Science Block, eduroam shows connected but nothing loads",2026-01-24 11:36:00,bbb362724b2435cb,2,126,flood-062
+r-2436d4c5df,block_a,wifi,"Cannot connect to eduroam in Computer Science Block, it times out every time",2026-01-24 11:36:00,8e77a058e10f6635,2,126,flood-062
+r-5e96193817,block_a,wifi,Wifi is dead in the Computer Science Block wing and nobody can submit assignments,2026-01-24 11:37:00,5fda11d230f8b550,2,126,flood-062
+r-b131175ddb,block_a,wifi,Frequent disconnections on the Computer Science Block access point tonight,2026-01-24 11:37:00,905f2dac28ab3335,2,126,flood-062
+r-db8ddde04e,block_a,wifi,Computer Science Block has zero signal bars and the hotspot says no internet,2026-01-24 11:38:00,94d5bc935b102364,2,126,flood-062
+r-be39b358e7,block_a,wifi,"Campus wifi not working in Computer Science Block, authentication keeps failing",2026-01-24 11:38:00,390b4272a11477d7,2,126,flood-062
+r-afcdf6dac7,block_a,wifi,"Campus wifi not working in Computer Science Block, authentication keeps failing",2026-01-24 11:39:00,b40b230b418281d0,2,126,flood-062
+r-3331cac7ae,block_a,wifi,"Campus wifi not working in Computer Science Block, authentication keeps failing",2026-01-24 11:40:00,6fe01129b539f49c,2,126,flood-062
+r-175eea8379,block_a,wifi,Wifi is dead in the Computer Science Block wing and nobody can submit assignments,2026-01-24 11:40:00,e6c4fb9961056111,2,126,flood-062
+r-cbbfffa9b8,block_a,wifi,Wifi is dead in the Computer Science Block wing and nobody can submit assignments,2026-01-24 11:40:00,011eb787db8af394,2,126,flood-062
+r-9a14a25c9f,block_a,wifi,"Internet down in Computer Science Block, the whole floor is affected",2026-01-24 11:42:00,3b63795e7da143eb,2,126,flood-062
+r-6c1f55ee29,block_a,wifi,"Cannot connect to eduroam in Computer Science Block, it times out every time",2026-01-24 11:42:00,18b58172c5e8f2ec,2,126,flood-062
+r-6d6cadb2ab,block_a,wifi,"No internet in Computer Science Block, eduroam shows connected but nothing loads",2026-01-24 11:43:00,86b5385d63274188,2,126,flood-062
+r-d94e19f7a5,block_a,wifi,Wi-Fi keeps dropping near Computer Science Block since the last ten minutes,2026-01-24 11:43:00,85f4b432f17cbf81,2,126,flood-062
+r-2039bc8b42,block_a,wifi,Wifi is dead in the Computer Science Block wing and nobody can submit assignments,2026-01-24 11:44:00,3cc54a8c547e8a7a,2,126,flood-062
+r-d4b5565747,block_a,wifi,Computer Science Block has zero signal bars and the hotspot says no internet,2026-01-24 11:44:00,a46cba7225b2fc47,2,126,flood-062
+r-030cd4c730,block_a,wifi,"No internet in Computer Science Block, eduroam shows connected but nothing loads",2026-01-24 11:44:00,7e5e2f57839f75be,2,126,flood-062
+r-19811aec1a,canteen_main,electrical,Lights flickering and a burning smell in Main Canteen,2026-01-24 15:18:00,78c3a63e99b77c51,2,93,single-030
+r-6e6dfa5c28,canteen_north,plumbing,Tap is overflowing in North Canteen and water is spreading,2026-01-25 03:38:00,1bc1df3cfddf4a44,1,56,single-025
+r-dae905d0dc,gate_north,safety,"Streetlight is off on the path near North Gate, it is very dark",2026-01-26 07:14:00,ef3a35e5e2e63118,3,166,flood-079
+r-005152e3ad,gate_north,safety,Group loitering and passing comments near North Gate,2026-01-26 07:15:00,34ee669ce94c32f5,3,166,flood-079
+r-b595296272,gate_north,safety,Emergency exit near North Gate is blocked by parked carts,2026-01-26 07:15:00,799630230f871f68,3,166,flood-079
+r-2a27fe0dec,gate_north,safety,Suspicious person following students near North Gate after dark,2026-01-26 07:16:00,a194312f6cb40916,3,166,flood-079
+r-d47058b264,gate_north,safety,"Streetlight is off on the path near North Gate, it is very dark",2026-01-26 07:16:00,709f24735f6643b0,3,166,flood-079
+r-50745d3d34,gate_north,safety,Group loitering and passing comments near North Gate,2026-01-26 07:16:00,d68559e943da24c6,3,166,flood-079
+r-8c39cf0e1b,gate_north,safety,"Slippery floor near North Gate, someone almost fell",2026-01-26 07:16:00,8ca4a6f2bab4a3b1,3,166,flood-079
+r-42d2a8ffe6,gate_north,safety,Emergency exit near North Gate is blocked by parked carts,2026-01-26 07:16:00,5e1a9725a5044c57,3,166,flood-079
+r-fe584a8522,gate_north,safety,"Slippery floor near North Gate, someone almost fell",2026-01-26 07:16:00,d4acfcc5b55bcbbb,3,166,flood-079
+r-613df090cc,gate_north,safety,"Slippery floor near North Gate, someone almost fell",2026-01-26 07:17:00,57b6c7d3259b24d7,3,166,flood-079
+r-3f623d7752,gate_north,safety,"Streetlight is off on the path near North Gate, it is very dark",2026-01-26 07:18:00,cb989bb3dd77d225,3,166,flood-079
+r-aaa443da66,gate_north,safety,Emergency exit near North Gate is blocked by parked carts,2026-01-26 07:18:00,ff8f61412def228b,3,166,flood-079
+r-2e89411670,gate_north,safety,"Stray dog pack near North Gate, students are scared to walk",2026-01-26 07:18:00,ec75d81f2afa9f0b,3,166,flood-079
+r-93611982c2,gate_north,safety,Emergency exit near North Gate is blocked by parked carts,2026-01-26 07:18:00,b60226931e8972b7,3,166,flood-079
+r-8c7570f202,gate_north,safety,Suspicious person following students near North Gate after dark,2026-01-26 07:19:00,8e99caf069fb45a8,3,166,flood-079
+r-a88087c28a,gate_north,safety,Suspicious person following students near North Gate after dark,2026-01-26 07:19:00,1fe1c20aca6514fb,3,166,flood-079
+r-219e60aa44,gate_north,safety,"Stray dog pack near North Gate, students are scared to walk",2026-01-26 07:19:00,34e5371167f573fd,3,166,flood-079
+r-8e5f3666b4,gate_north,safety,"Streetlight is off on the path near North Gate, it is very dark",2026-01-26 07:19:00,5d34a6db20afe4db,3,166,flood-079
+r-01f7ce3125,hostel_g1,plumbing,"Leaking joint under the sink in Girls Hostel G1, floor is slippery",2026-01-26 22:54:00,0d8048bc9c6ac39f,2,135,flood-011
+r-f9c16d7fdd,hostel_g1,plumbing,"Leaking joint under the sink in Girls Hostel G1, floor is slippery",2026-01-26 22:56:00,cd0356226b1e8436,2,135,flood-011
+r-86e06e620a,hostel_g1,plumbing,"Washroom drain blocked in Girls Hostel G1, water is standing",2026-01-26 22:56:00,31e5000130d8637a,2,135,flood-011
+r-fd96313104,hostel_g1,plumbing,"Leaking joint under the sink in Girls Hostel G1, floor is slippery",2026-01-26 22:58:00,23a71891f42aec7a,2,135,flood-011
+r-bcbc9fdbeb,hostel_g1,plumbing,"Washroom drain blocked in Girls Hostel G1, water is standing",2026-01-26 23:01:00,09bcf1fef2ddde17,2,135,flood-011
+r-8cb3f0a029,hostel_g1,plumbing,Tap is overflowing in Girls Hostel G1 and water is spreading,2026-01-26 23:01:00,8c52f0bc0269515f,2,135,flood-011
+r-9033fb97cd,hostel_g1,plumbing,Tap is overflowing in Girls Hostel G1 and water is spreading,2026-01-26 23:01:00,8034e81dea3d35a6,2,135,flood-011
+r-8d679b6c6e,hostel_g1,plumbing,Water leaking from the ceiling in Girls Hostel G1,2026-01-26 23:02:00,3b32fe7b4d269bce,2,135,flood-011
+r-a22a210f58,hostel_g1,plumbing,Tap is overflowing in Girls Hostel G1 and water is spreading,2026-01-26 23:03:00,e06626dd5aec7fa0,2,135,flood-011
+r-5799c2c87a,hostel_g1,plumbing,"Leaking joint under the sink in Girls Hostel G1, floor is slippery",2026-01-26 23:04:00,32c13ac87971c43a,2,135,flood-011
+r-fa4458c1e8,hostel_g1,plumbing,Tap is overflowing in Girls Hostel G1 and water is spreading,2026-01-26 23:05:00,2cb44ce51dc162e5,2,135,flood-011
+r-4f8b926ef6,hostel_g1,plumbing,Water leaking from the ceiling in Girls Hostel G1,2026-01-26 23:06:00,e67b02ba86610808,2,135,flood-011
+r-64f2199ec4,hostel_g1,plumbing,Water leaking from the ceiling in Girls Hostel G1,2026-01-26 23:06:00,b198fafc4fc2f723,2,135,flood-011
+r-cac655c036,hostel_g1,plumbing,No water supply in the Girls Hostel G1 washroom since morning,2026-01-26 23:08:00,b85dd72488a7e342,2,135,flood-011
+r-fdf5a4bfd6,hostel_g1,plumbing,Tap is overflowing in Girls Hostel G1 and water is spreading,2026-01-26 23:08:00,23d58aef103d989f,2,135,flood-011
+r-1705f70f4e,block_d,electrical,The Civil & Design Block breaker keeps tripping every few minutes,2026-01-27 09:51:00,095733a1aaa64e1a,3,171,flood-078
+r-24d1ab4a48,block_d,electrical,No electricity in the Civil & Design Block corridor since twenty minutes,2026-01-27 09:52:00,91c737de5a2004a9,3,171,flood-078
+r-83769c097a,block_d,electrical,"Power socket sparked in Civil & Design Block, please check immediately",2026-01-27 09:53:00,f3546172033cfd5e,3,171,flood-078
+r-591a17c829,block_d,electrical,"Power socket sparked in Civil & Design Block, please check immediately",2026-01-27 09:53:00,3b9634e11afa8f6f,3,171,flood-078
+r-677c097cfb,block_d,electrical,The Civil & Design Block breaker keeps tripping every few minutes,2026-01-27 09:53:00,418ded31448669e7,3,171,flood-078
+r-77bc381072,block_d,electrical,Lights flickering and a burning smell in Civil & Design Block,2026-01-27 09:54:00,a398f997e3371ec9,3,171,flood-078
+r-c5a02d3d26,block_d,electrical,"Fan and lights dead in Civil & Design Block, main switch looks tripped",2026-01-27 09:55:00,dbfcbcd048ff3987,3,171,flood-078
+r-9e44442600,block_d,electrical,The Civil & Design Block breaker keeps tripping every few minutes,2026-01-27 09:55:00,9e0bc05396eee76b,3,171,flood-078
+r-e165c1fde4,block_d,electrical,Switchboard is buzzing loudly in Civil & Design Block,2026-01-27 09:56:00,1f2379891ca4fa7b,3,171,flood-078
+r-74a0ead3cc,block_d,electrical,Switchboard is buzzing loudly in Civil & Design Block,2026-01-27 09:56:00,80d097a63bad65b3,3,171,flood-078
+r-bd4dce24cc,hostel_b1,wifi,Boys Hostel B1 has zero signal bars and the hotspot says no internet,2026-01-27 10:37:00,e6751b3adc4477a2,1,81,flood-047
+r-e9f402aa7f,hostel_b1,wifi,"No internet in Boys Hostel B1, eduroam shows connected but nothing loads",2026-01-27 10:37:00,fd9649a0ec4ff821,1,81,flood-047
+r-6f7f769b1e,hostel_b1,wifi,Frequent disconnections on the Boys Hostel B1 access point tonight,2026-01-27 10:39:00,39e9ab46eb7ad96c,1,81,flood-047
+r-22337b0d78,hostel_b1,wifi,"Internet down in Boys Hostel B1, the whole floor is affected",2026-01-27 10:43:00,ba25971a93a3e2f2,1,81,flood-047
+r-e0f6895b9d,hostel_b1,wifi,"Campus wifi not working in Boys Hostel B1, authentication keeps failing",2026-01-27 10:47:00,8051fba788c9c88e,1,81,flood-047
+r-c201abba00,hostel_b1,wifi,"Internet down in Boys Hostel B1, the whole floor is affected",2026-01-27 10:47:00,9bafbd0a195970ff,1,81,flood-047
+r-8c72448ee6,hostel_g1,electrical,No electricity in the Girls Hostel G1 corridor since twenty minutes,2026-01-27 16:47:00,eda6a0ab7c87a607,2,121,flood-072
+r-5850dace28,hostel_g1,electrical,"Power socket sparked in Girls Hostel G1, please check immediately",2026-01-27 16:50:00,4bb38dd9a10c40d5,2,121,flood-072
+r-e6fb45967c,hostel_g1,electrical,No electricity in the Girls Hostel G1 corridor since twenty minutes,2026-01-27 16:50:00,6b5dfe11819eccfd,2,121,flood-072
+r-b2c425b633,hostel_g1,electrical,The Girls Hostel G1 breaker keeps tripping every few minutes,2026-01-27 16:52:00,a6919b097b8ff17e,2,121,flood-072
+r-526bb9bd40,hostel_g1,electrical,Switchboard is buzzing loudly in Girls Hostel G1,2026-01-27 16:53:00,456115de5cdb8472,2,121,flood-072
+r-a0f5f3f209,hostel_g1,electrical,"Fan and lights dead in Girls Hostel G1, main switch looks tripped",2026-01-27 16:54:00,12ebee7912751c50,2,121,flood-072
+r-4abcbbc025,hostel_g1,electrical,Switchboard is buzzing loudly in Girls Hostel G1,2026-01-27 16:55:00,16b199a466867a72,2,121,flood-072
+r-f274af4155,block_c,electrical,"Fan and lights dead in Mechanical Block, main switch looks tripped",2026-01-27 23:47:00,a2a2bbfa19f132c0,3,142,single-034
+r-33b7af7072,block_a,wifi,Wi-Fi keeps dropping near Computer Science Block since the last ten minutes,2026-01-28 10:05:00,16b0a4ff56fc1b4c,2,123,flood-070
+r-91691509cb,block_a,wifi,"Internet down in Computer Science Block, the whole floor is affected",2026-01-28 10:05:00,b11da4d9712ad02e,2,123,flood-070
+r-e6a1c8448e,block_a,wifi,Computer Science Block has zero signal bars and the hotspot says no internet,2026-01-28 10:05:00,41ff762cd307fc20,2,123,flood-070
+r-7e65bd5350,block_a,wifi,Frequent disconnections on the Computer Science Block access point tonight,2026-01-28 10:06:00,cf834f0a7576c7bf,2,123,flood-070
+r-a73b4c6c69,block_a,wifi,"Campus wifi not working in Computer Science Block, authentication keeps failing",2026-01-28 10:06:00,df8a592c5a7798b7,2,123,flood-070
+r-c2d55d1855,block_a,wifi,Frequent disconnections on the Computer Science Block access point tonight,2026-01-28 10:07:00,634eaad9069e42ae,2,123,flood-070
+r-9ca81f6634,block_a,wifi,Computer Science Block has zero signal bars and the hotspot says no internet,2026-01-28 10:08:00,3eb423d2fd271fc1,2,123,flood-070
+r-b0de8228d9,block_a,wifi,Wifi is dead in the Computer Science Block wing and nobody can submit assignments,2026-01-28 10:08:00,e9c69424e1cbab28,2,123,flood-070
+r-2deb6f2c49,block_a,wifi,"Internet down in Computer Science Block, the whole floor is affected",2026-01-28 10:09:00,a59ec6da1128d6b2,2,123,flood-070
+r-a02fdd0584,block_a,wifi,Frequent disconnections on the Computer Science Block access point tonight,2026-01-28 10:10:00,0b9f796bdb6ffc06,2,123,flood-070
+r-b081178db3,block_a,wifi,Wifi is dead in the Computer Science Block wing and nobody can submit assignments,2026-01-28 10:11:00,9b177978ee50214f,2,123,flood-070
+r-2d96ca4832,block_a,wifi,Frequent disconnections on the Computer Science Block access point tonight,2026-01-28 10:11:00,0f7c4d6fadb9ebda,2,123,flood-070
+r-f6b4f9b43e,hostel_b2,electrical,Switchboard is buzzing loudly in Boys Hostel B2,2026-01-28 15:39:00,f490808732c8cc7f,3,191,flood-063
+r-face9573f0,hostel_b2,electrical,Switchboard is buzzing loudly in Boys Hostel B2,2026-01-28 15:40:00,48604ca908feeca3,3,191,flood-063
+r-ecaf7f3538,hostel_b2,electrical,No electricity in the Boys Hostel B2 corridor since twenty minutes,2026-01-28 15:40:00,98d7f60544a4081f,3,191,flood-063
+r-7d35388c02,hostel_b2,electrical,"Power socket sparked in Boys Hostel B2, please check immediately",2026-01-28 15:40:00,31441b2be56ff00c,3,191,flood-063
+r-82fa7117e7,hostel_b2,electrical,Switchboard is buzzing loudly in Boys Hostel B2,2026-01-28 15:40:00,1410b4c608862382,3,191,flood-063
+r-ba6de95d40,hostel_b2,electrical,"Power socket sparked in Boys Hostel B2, please check immediately",2026-01-28 15:42:00,15bc8a835881426b,3,191,flood-063
+r-3ab2eba876,hostel_b2,electrical,The Boys Hostel B2 breaker keeps tripping every few minutes,2026-01-28 15:42:00,00fc0d24ced8a49c,3,191,flood-063
+r-9c61b384d7,hostel_b2,electrical,No electricity in the Boys Hostel B2 corridor since twenty minutes,2026-01-28 15:42:00,1c24de3b6d1c0780,3,191,flood-063
+r-f077f2cb29,hostel_b2,electrical,No electricity in the Boys Hostel B2 corridor since twenty minutes,2026-01-28 15:42:00,746eba9d7bf6cc48,3,191,flood-063
+r-926d0033e6,hostel_b2,electrical,Lights flickering and a burning smell in Boys Hostel B2,2026-01-28 15:42:00,3c664cef22d15074,3,191,flood-063
+r-a9b6329783,hostel_b2,electrical,The Boys Hostel B2 breaker keeps tripping every few minutes,2026-01-28 15:44:00,33886ce655f5c0d3,3,191,flood-063
+r-3f121f175e,hostel_b2,electrical,The Boys Hostel B2 breaker keeps tripping every few minutes,2026-01-28 15:45:00,3139aca4e2d05d03,3,191,flood-063
+r-3fb550242e,hostel_b2,electrical,"Fan and lights dead in Boys Hostel B2, main switch looks tripped",2026-01-28 15:45:00,403346527e883e9b,3,191,flood-063
+r-fef45a8e00,block_c,infrastructure,"Cracked pavement outside Mechanical Block, trip hazard",2026-01-28 21:14:00,ad7087aa77ffccbe,2,151,flood-084
+r-4dbe665481,block_c,infrastructure,Window glass cracked in Mechanical Block after the storm,2026-01-28 21:18:00,865d59c665b80756,2,151,flood-084
+r-c3f399cb77,block_c,infrastructure,Broken chair and exposed nail in the Mechanical Block seating area,2026-01-28 21:18:00,9e423b860216be60,2,151,flood-084
+r-a94ee49773,block_c,infrastructure,Broken chair and exposed nail in the Mechanical Block seating area,2026-01-28 21:21:00,993baff0e330b200,2,151,flood-084
+r-e5da10f66a,block_c,infrastructure,"Door latch broken at Mechanical Block, it will not close",2026-01-28 21:21:00,42f8c1b0bb366153,2,151,flood-084
+r-88e3bcca0a,block_c,infrastructure,"Cracked pavement outside Mechanical Block, trip hazard",2026-01-28 21:23:00,d6ea5de8586075f2,2,151,flood-084
+r-3db558aaff,block_c,infrastructure,"Cracked pavement outside Mechanical Block, trip hazard",2026-01-28 21:23:00,ede437d5e7de47e1,2,151,flood-084
+r-455eeed681,block_c,infrastructure,"Cracked pavement outside Mechanical Block, trip hazard",2026-01-28 21:28:00,85d8b1e73d0568a2,2,151,flood-084
+r-2dea8f7cbe,block_b,wifi,"No internet in Electronics Block, eduroam shows connected but nothing loads",2026-01-28 21:29:00,c1d081fe1f1abe8b,1,46,flood-031
+r-4db48acdf9,block_b,wifi,"No internet in Electronics Block, eduroam shows connected but nothing loads",2026-01-28 21:29:00,601989fedce25ea4,1,46,flood-031
+r-7758007658,block_b,wifi,"No internet in Electronics Block, eduroam shows connected but nothing loads",2026-01-28 21:30:00,6a25f13feb57576f,1,46,flood-031
+r-d67ba8c4a6,block_b,wifi,"No internet in Electronics Block, eduroam shows connected but nothing loads",2026-01-28 21:30:00,74ad071a13f2ceeb,1,46,flood-031
+r-d73e67bd87,block_b,wifi,Wifi is dead in the Electronics Block wing and nobody can submit assignments,2026-01-28 21:31:00,caf80ad8924998f7,1,46,flood-031
+r-87e62d0310,block_b,wifi,"Cannot connect to eduroam in Electronics Block, it times out every time",2026-01-28 21:32:00,499b1dacf9a48eea,1,46,flood-031
+r-af8c68cff9,block_c,infrastructure,"Ceiling tile fell down in Mechanical Block, area is unsafe",2026-01-28 21:32:00,8fc740ded0684f8f,2,151,flood-084
+r-d948854361,mess_main,cleanliness,Litter all around the Main Mess seating area,2026-01-28 22:33:00,a648946913687c2e,0,15,flood-043
+r-4cfccd6a1b,mess_main,cleanliness,Garbage bins overflowing at Main Mess,2026-01-28 22:33:00,32ab0c892b10775a,0,15,flood-043
+r-2e39987b8e,mess_main,cleanliness,Washroom at Main Mess is dirty and out of soap,2026-01-28 22:33:00,9449bdb0a4b70679,0,15,flood-043
+r-78a8f8e670,mess_main,cleanliness,"Spilled food on the floor at Main Mess, nobody is cleaning it",2026-01-28 22:34:00,392d06e5d0fb56ee,0,15,flood-043
+r-6772b968b0,mess_main,cleanliness,Dustbins not cleared outside Main Mess for two days,2026-01-28 22:36:00,7fb076a49c177bce,0,15,flood-043
+r-8fcc563d36,mess_main,cleanliness,Tables at Main Mess are sticky and uncleaned,2026-01-28 22:38:00,e070302a8f167617,0,15,flood-043
+r-c069d93a68,mess_main,cleanliness,Washroom at Main Mess is dirty and out of soap,2026-01-28 22:39:00,78ea9d23789d45cf,0,15,flood-043
+r-1c422f4cb2,block_d,plumbing,"Pipe burst near Civil & Design Block, please send someone fast",2026-01-29 03:20:00,1901fc8c5d2deaec,1,39,single-020
+r-b07f115d5b,hostel_g1,wifi,"Cannot connect to eduroam in Girls Hostel G1, it times out every time",2026-01-29 03:58:00,e076ffcaa72615de,1,51,single-029
+r-23cd7893c9,sports,plumbing,"Pipe burst near Sports Complex, please send someone fast",2026-01-29 05:43:00,afe30d7a21859b4b,0,10,single-067
+r-9eb35a48a6,amphitheatre,infrastructure,"Lift stuck between floors at Open Air Amphitheatre, please check",2026-01-29 07:46:00,30cfb4e51b1f6d85,2,126,flood-050
+r-751b7ad518,canteen_main,food,Insect found near the serving counter at Main Canteen,2026-01-29 07:51:00,76c7cf2ad60c4cd6,3,184,flood-053
+r-8cf378e118,canteen_main,food,Undercooked rice served at Main Canteen during lunch,2026-01-29 07:53:00,485c2ed8b24590a8,3,184,flood-053
+r-57e2910067,canteen_main,food,Insect found near the serving counter at Main Canteen,2026-01-29 07:53:00,fc4f4162dc3f3a34,3,184,flood-053
+r-561662522f,amphitheatre,infrastructure,Window glass cracked in Open Air Amphitheatre after the storm,2026-01-29 07:53:00,bfae8650d5a6fe19,2,126,flood-050
+r-d2446541a8,amphitheatre,infrastructure,"Ceiling tile fell down in Open Air Amphitheatre, area is unsafe",2026-01-29 07:54:00,83714fa91ac05ddc,2,126,flood-050
+r-cf7838a71b,amphitheatre,infrastructure,"Lift stuck between floors at Open Air Amphitheatre, please check",2026-01-29 07:54:00,a3b111bc87367cb4,2,126,flood-050
+r-11b4478a39,amphitheatre,infrastructure,"Ceiling tile fell down in Open Air Amphitheatre, area is unsafe",2026-01-29 07:55:00,46ed48701525c746,2,126,flood-050
+r-6f88074d55,canteen_main,food,Insect found near the serving counter at Main Canteen,2026-01-29 07:55:00,c3d07a66e733a8fc,3,184,flood-053
+r-e58fbdd5fd,amphitheatre,infrastructure,"Lift stuck between floors at Open Air Amphitheatre, please check",2026-01-29 07:56:00,424e8b3410548654,2,126,flood-050
+r-d53b5ce4ca,amphitheatre,infrastructure,"Lift stuck between floors at Open Air Amphitheatre, please check",2026-01-29 07:57:00,222cd81104209310,2,126,flood-050
+r-47919ccaac,canteen_main,food,Undercooked rice served at Main Canteen during lunch,2026-01-29 07:58:00,f0129538a3a526f6,3,184,flood-053
+r-c451038d02,block_a,wifi,"Internet down in Computer Science Block, the whole floor is affected",2026-01-29 08:00:00,1ef859cebc99d464,2,116,flood-074
+r-786de6f143,block_a,wifi,Wi-Fi keeps dropping near Computer Science Block since the last ten minutes,2026-01-29 08:00:00,1a98258599b12723,2,116,flood-074
+r-081f71f562,block_a,wifi,"No internet in Computer Science Block, eduroam shows connected but nothing loads",2026-01-29 08:00:00,e0238d4a1b8b06c7,2,116,flood-074
+r-0ee5c7281b,block_a,wifi,"No internet in Computer Science Block, eduroam shows connected but nothing loads",2026-01-29 08:00:00,04f181aea14b129a,2,116,flood-074
+r-367914712a,block_a,wifi,Wifi is dead in the Computer Science Block wing and nobody can submit assignments,2026-01-29 08:00:00,2f249a4ee5398b38,2,116,flood-074
+r-bcf10ceb28,amphitheatre,infrastructure,Window glass cracked in Open Air Amphitheatre after the storm,2026-01-29 08:00:00,3130a739c9780c64,2,126,flood-050
+r-85425d9a0c,amphitheatre,infrastructure,Window glass cracked in Open Air Amphitheatre after the storm,2026-01-29 08:02:00,db4b820cb2f4c955,2,126,flood-050
+r-23ca97774d,amphitheatre,infrastructure,"Lift stuck between floors at Open Air Amphitheatre, please check",2026-01-29 08:02:00,b86f51dd2be2b5b5,2,126,flood-050
+r-f37f6f868f,block_a,wifi,Computer Science Block has zero signal bars and the hotspot says no internet,2026-01-29 08:02:00,1613286886d705c7,2,116,flood-074
+r-3053aca7e1,block_a,wifi,Computer Science Block has zero signal bars and the hotspot says no internet,2026-01-29 08:02:00,7f3b4d9c8ad3fbd8,2,116,flood-074
+r-ec7197ed07,canteen_main,food,Insect found near the serving counter at Main Canteen,2026-01-29 08:03:00,8f953a377a908ea7,3,184,flood-053
+r-6066b59e44,canteen_main,food,"Curry at Main Canteen has a strange smell, please inspect",2026-01-29 08:03:00,6f0450b7c5a84a5f,3,184,flood-053
+r-011afc3f11,canteen_main,food,Undercooked rice served at Main Canteen during lunch,2026-01-29 08:03:00,b30f2e03fc740cc2,3,184,flood-053
+r-5b08a40e90,block_a,wifi,"No internet in Computer Science Block, eduroam shows connected but nothing loads",2026-01-29 08:03:00,e88804ea111b206c,2,116,flood-074
+r-61dd85802c,block_a,wifi,Wi-Fi keeps dropping near Computer Science Block since the last ten minutes,2026-01-29 08:03:00,114e9d371075dfac,2,116,flood-074
+r-0077ae6bb3,block_a,wifi,"Internet down in Computer Science Block, the whole floor is affected",2026-01-29 08:04:00,bbc5c7d7c1358396,2,116,flood-074
+r-ec67e1930d,block_a,wifi,Computer Science Block has zero signal bars and the hotspot says no internet,2026-01-29 08:05:00,b77263d87a3990bd,2,116,flood-074
+r-edbd70b985,canteen_main,food,"Food smells stale at Main Canteen, please check the batch",2026-01-29 08:06:00,f9ea87918ea28462,3,184,flood-053
+r-63e287960e,block_a,wifi,Computer Science Block has zero signal bars and the hotspot says no internet,2026-01-29 08:06:00,f0ba266782563f55,2,116,flood-074
+r-5df71d9558,block_a,wifi,Wi-Fi keeps dropping near Computer Science Block since the last ten minutes,2026-01-29 08:06:00,0874428dbbc6ff1e,2,116,flood-074
+r-0d592e54d5,block_a,wifi,"No internet in Computer Science Block, eduroam shows connected but nothing loads",2026-01-29 08:06:00,7a246a5b4c0cd0cd,2,116,flood-074
+r-4d9c7587ab,block_a,wifi,"Internet down in Computer Science Block, the whole floor is affected",2026-01-29 08:06:00,84b2e66f5fc4a24e,2,116,flood-074
+r-0cb54c21ed,canteen_main,food,"Curry at Main Canteen has a strange smell, please inspect",2026-01-29 08:07:00,c0e87f15e48437b5,3,184,flood-053
+r-3779216622,block_a,wifi,Wifi is dead in the Computer Science Block wing and nobody can submit assignments,2026-01-29 08:07:00,ad995fbeb57547e5,2,116,flood-074
+r-db97566ae8,canteen_main,food,"Curry at Main Canteen has a strange smell, please inspect",2026-01-29 08:09:00,a761f7183079dfe9,3,184,flood-053
+r-2abc946c62,canteen_main,food,The milk at Main Canteen tastes sour today,2026-01-29 08:09:00,77f1b62e479f3b17,3,184,flood-053
+r-e8fb404884,hostel_g1,safety,Group loitering and passing comments near Girls Hostel G1,2026-01-29 09:57:00,ba506c210db488a3,2,108,single-047
+r-b3fd3ddf2e,hostel_g1,plumbing,Tap is overflowing in Girls Hostel G1 and water is spreading,2026-01-29 12:15:00,fbd3f55264a96c44,2,149,flood-029
+r-8a289193f3,hostel_g1,plumbing,"Leaking joint under the sink in Girls Hostel G1, floor is slippery",2026-01-29 12:16:00,36e2ed88c1ac836c,2,149,flood-029
+r-8776662fa2,hostel_g1,plumbing,"Washroom drain blocked in Girls Hostel G1, water is standing",2026-01-29 12:16:00,064aea82956105af,2,149,flood-029
+r-51d11e92d6,hostel_g1,plumbing,"Leaking joint under the sink in Girls Hostel G1, floor is slippery",2026-01-29 12:18:00,d6c5ba56b8e5f098,2,149,flood-029
+r-3b651acd1a,hostel_g1,plumbing,"Washroom drain blocked in Girls Hostel G1, water is standing",2026-01-29 12:18:00,e4f5383662457044,2,149,flood-029
+r-4535977f14,hostel_g1,plumbing,Water leaking from the ceiling in Girls Hostel G1,2026-01-29 12:19:00,374523fda7406298,2,149,flood-029
+r-aeba0933ec,hostel_g1,plumbing,Water leaking from the ceiling in Girls Hostel G1,2026-01-29 21:05:00,7634fad02f5defa7,2,125,flood-067
+r-23fc1179bc,hostel_g1,plumbing,"Pipe burst near Girls Hostel G1, please send someone fast",2026-01-29 21:05:00,56152a4cfe439e60,2,125,flood-067
+r-bd5e08cf45,hostel_g1,plumbing,"Washroom drain blocked in Girls Hostel G1, water is standing",2026-01-29 21:05:00,1e45aa56430e257d,2,125,flood-067
+r-007c300673,hostel_g1,plumbing,Tap is overflowing in Girls Hostel G1 and water is spreading,2026-01-29 21:06:00,e5e275aeb3c85d8d,2,125,flood-067
+r-b955eb630c,hostel_g1,plumbing,No water supply in the Girls Hostel G1 washroom since morning,2026-01-29 21:06:00,27f7b3e1266311c5,2,125,flood-067
+r-e166c8b82f,hostel_g1,plumbing,No water supply in the Girls Hostel G1 washroom since morning,2026-01-29 21:06:00,c68da786ed18f4d5,2,125,flood-067
+r-2a360649ad,hostel_g1,plumbing,Water leaking from the ceiling in Girls Hostel G1,2026-01-29 21:06:00,16f76b95af6f7cd3,2,125,flood-067
+r-d1c52f9f37,hostel_g1,plumbing,Tap is overflowing in Girls Hostel G1 and water is spreading,2026-01-29 21:08:00,a3f50e538ab2b2ca,2,125,flood-067
+r-35583ddb5f,hostel_g1,plumbing,Water leaking from the ceiling in Girls Hostel G1,2026-01-29 21:09:00,1fc3fa08427d2b04,2,125,flood-067
+r-459b4d3ff7,hostel_g1,plumbing,"Leaking joint under the sink in Girls Hostel G1, floor is slippery",2026-01-29 21:09:00,889c76da33354373,2,125,flood-067
+r-eec4cb41d1,hostel_g1,plumbing,"Pipe burst near Girls Hostel G1, please send someone fast",2026-01-29 21:10:00,f0fe68b6ef42ed50,2,125,flood-067
+r-0e6d35eba8,block_a,food,The milk at Computer Science Block tastes sour today,2026-01-30 00:48:00,a55fa7a3070e9440,2,97,single-011
+r-7368ee23cf,block_d,electrical,Lights flickering and a burning smell in Civil & Design Block,2026-01-30 20:52:00,f21a97656784f9de,3,195,flood-018
+r-6813fde4bc,block_d,electrical,No electricity in the Civil & Design Block corridor since twenty minutes,2026-01-30 20:52:00,d4baaba475ddae83,3,195,flood-018
+r-a2a86a0134,block_d,electrical,The Civil & Design Block breaker keeps tripping every few minutes,2026-01-30 20:55:00,638721c5d120a3a8,3,195,flood-018
+r-5c378c012f,block_d,electrical,The Civil & Design Block breaker keeps tripping every few minutes,2026-01-30 20:57:00,944e516fb5e4b3f4,3,195,flood-018
+r-291fa983d1,block_d,electrical,No electricity in the Civil & Design Block corridor since twenty minutes,2026-01-30 21:03:00,c2d50f32c8cb2f66,3,195,flood-018
+r-f11cc38b6a,block_d,electrical,No electricity in the Civil & Design Block corridor since twenty minutes,2026-01-30 21:05:00,53470fb2d0277da7,3,195,flood-018
+r-3640181056,block_d,electrical,No electricity in the Civil & Design Block corridor since twenty minutes,2026-01-30 21:06:00,29464143899ead84,3,195,flood-018
+r-115907f2be,block_d,electrical,Lights flickering and a burning smell in Civil & Design Block,2026-01-30 21:09:00,505cd9d4b6f26eb3,3,195,flood-018
+r-e790f5ba9c,canteen_main,plumbing,"Pipe burst near Main Canteen, please send someone fast",2026-01-30 21:23:00,2ac6240234d6096a,1,88,single-004
+r-b0c0113dee,block_b,plumbing,"Leaking joint under the sink in Electronics Block, floor is slippery",2026-01-30 21:34:00,c3cc736e99406d89,2,135,flood-016
+r-3f71bf9f07,block_b,plumbing,No water supply in the Electronics Block washroom since morning,2026-01-30 21:39:00,cf37e7f42041792d,2,135,flood-016
+r-ba0dfa0d75,block_b,plumbing,"Pipe burst near Electronics Block, please send someone fast",2026-01-30 21:40:00,876cb9be7532ea1d,2,135,flood-016
+r-6b71956c3a,block_b,plumbing,"Leaking joint under the sink in Electronics Block, floor is slippery",2026-01-30 21:40:00,37ce63bf3d1212df,2,135,flood-016
+r-e3abf891aa,block_b,plumbing,"Leaking joint under the sink in Electronics Block, floor is slippery",2026-01-30 21:41:00,d208c156cba3149c,2,135,flood-016
+r-736622bf42,block_b,plumbing,"Leaking joint under the sink in Electronics Block, floor is slippery",2026-01-30 21:42:00,7e1576ffbc6cd6bb,2,135,flood-016
+r-32838cc46e,block_b,plumbing,"Leaking joint under the sink in Electronics Block, floor is slippery",2026-01-30 21:43:00,ec877fee0f5e34d0,2,135,flood-016
+r-20c67e45d1,block_b,plumbing,Water leaking from the ceiling in Electronics Block,2026-01-30 21:44:00,2ee2f991cda49b08,2,135,flood-016
+r-2b80fda058,block_b,plumbing,"Pipe burst near Electronics Block, please send someone fast",2026-01-30 21:44:00,6b596ed0e9ed3fa2,2,135,flood-016
+r-d66235448a,block_a,safety,Suspicious person following students near Computer Science Block after dark,2026-01-31 15:58:00,c9851e887f0a9218,3,130,single-053
+r-a840a83ebb,library,wifi,Frequent disconnections on the Central Library access point tonight,2026-01-31 18:48:00,82ba2c25383b2aee,1,67,single-048
+r-c8bab2b85d,hostel_b1,food,The milk at Boys Hostel B1 tastes sour today,2026-01-31 19:59:00,45ab90aad8d3e5e6,2,87,single-039
+r-cc292627b5,mess_main,cleanliness,Garbage bins overflowing at Main Mess,2026-02-01 14:00:00,a29ee15c93f1ad91,1,75,single-068
+r-20df1a4788,block_b,food,"Food smells stale at Electronics Block, please check the batch",2026-02-01 19:53:00,a3dc4b796ee05be8,2,78,single-015
+r-fcdefa174f,block_b,plumbing,"Leaking joint under the sink in Electronics Block, floor is slippery",2026-02-01 21:50:00,af03e5419dddd275,2,134,flood-037
+r-7356f56c93,block_b,plumbing,"Washroom drain blocked in Electronics Block, water is standing",2026-02-01 21:50:00,2893ee331a51bed6,2,134,flood-037
+r-3fe9c9d0c7,block_b,plumbing,"Washroom drain blocked in Electronics Block, water is standing",2026-02-01 21:50:00,32c9c96ba215ef44,2,134,flood-037
+r-ca90472465,block_b,plumbing,Tap is overflowing in Electronics Block and water is spreading,2026-02-01 21:53:00,a26844c09f1c704e,2,134,flood-037
+r-925d3216f8,block_b,plumbing,No water supply in the Electronics Block washroom since morning,2026-02-01 21:53:00,8fec8e82262b3d5a,2,134,flood-037
+r-9001b7b284,block_b,plumbing,Tap is overflowing in Electronics Block and water is spreading,2026-02-01 21:54:00,a2dfb08521bcf01d,2,134,flood-037
+r-61974d6702,block_b,plumbing,Tap is overflowing in Electronics Block and water is spreading,2026-02-01 21:54:00,de59663874ecc885,2,134,flood-037
+r-d3142b73e5,block_b,plumbing,No water supply in the Electronics Block washroom since morning,2026-02-01 21:56:00,65c77a85e71abdec,2,134,flood-037
+r-0435da2c93,block_b,plumbing,"Washroom drain blocked in Electronics Block, water is standing",2026-02-01 21:57:00,caddea645e81a316,2,134,flood-037
+r-5da26023c2,block_b,plumbing,"Washroom drain blocked in Electronics Block, water is standing",2026-02-01 21:58:00,ec700b5996a0f4d2,2,134,flood-037
+r-4f81e230be,block_b,plumbing,No water supply in the Electronics Block washroom since morning,2026-02-01 21:58:00,1771ab60a2733ee2,2,134,flood-037
+r-a1df1a1478,block_b,plumbing,"Washroom drain blocked in Electronics Block, water is standing",2026-02-01 21:59:00,c7c7a5625b801c0b,2,134,flood-037
+r-7da43c7370,block_b,plumbing,Water leaking from the ceiling in Electronics Block,2026-02-01 22:00:00,545732a9e0290b8e,2,134,flood-037
+r-962e632e6f,block_b,plumbing,"Washroom drain blocked in Electronics Block, water is standing",2026-02-01 22:01:00,ed3195f3eb3196ff,2,134,flood-037
+r-a83b53c9d6,block_b,plumbing,"Leaking joint under the sink in Electronics Block, floor is slippery",2026-02-01 22:01:00,7feee8dcbbf7fc1c,2,134,flood-037
+r-534cf0612d,block_b,plumbing,Tap is overflowing in Electronics Block and water is spreading,2026-02-01 22:02:00,a6943aa96335ed39,2,134,flood-037
+r-b139de0cbc,block_b,plumbing,Tap is overflowing in Electronics Block and water is spreading,2026-02-01 22:02:00,f55a72ec872309f4,2,134,flood-037
+r-006c93ccfa,block_b,plumbing,"Pipe burst near Electronics Block, please send someone fast",2026-02-01 22:02:00,04fca7f6fd83690f,2,134,flood-037
+r-928dc9a65d,canteen_north,plumbing,"Leaking joint under the sink in North Canteen, floor is slippery",2026-02-02 09:57:00,3a9ad9794575eedd,1,59,single-021
+r-1aa51d91c3,library,safety,Group loitering and passing comments near Central Library,2026-02-02 11:26:00,c522683258efce7a,3,194,flood-044
+r-edecfc0743,library,safety,Group loitering and passing comments near Central Library,2026-02-02 11:26:00,3e9566f9129e1fb3,3,194,flood-044
+r-ceff88b5c0,library,safety,Suspicious person following students near Central Library after dark,2026-02-02 11:26:00,a6ba74a5a89fea19,3,194,flood-044
+r-10ccd0b304,library,safety,Emergency exit near Central Library is blocked by parked carts,2026-02-02 11:29:00,1c304ad13421baf7,3,194,flood-044
+r-f1fbfcc21f,library,safety,"Stray dog pack near Central Library, students are scared to walk",2026-02-02 11:30:00,10aa4993a2225cae,3,194,flood-044
+r-d746644f5c,library,safety,"Stray dog pack near Central Library, students are scared to walk",2026-02-02 11:32:00,5d32319bef16c5d3,3,194,flood-044
+r-c7b6d70ddf,library,safety,Group loitering and passing comments near Central Library,2026-02-02 11:34:00,274bafdbda75ecd8,3,194,flood-044
+r-5cfb0ed115,library,safety,Suspicious person following students near Central Library after dark,2026-02-02 11:35:00,ac7f694cd72616a2,3,194,flood-044
+r-506f4ccb85,library,safety,"Streetlight is off on the path near Central Library, it is very dark",2026-02-02 11:35:00,5ed8beced2519c27,3,194,flood-044
+r-970adcfa2c,block_b,plumbing,Water leaking from the ceiling in Electronics Block,2026-02-02 12:52:00,4ed172cda8f1a417,2,139,flood-030
+r-2422ea352e,block_b,plumbing,Tap is overflowing in Electronics Block and water is spreading,2026-02-02 12:52:00,7a714d0958a9af61,2,139,flood-030
+r-65a37eefd0,block_b,plumbing,Tap is overflowing in Electronics Block and water is spreading,2026-02-02 12:53:00,1f259eebcd852762,2,139,flood-030
+r-ff56349eea,block_b,plumbing,Tap is overflowing in Electronics Block and water is spreading,2026-02-02 12:53:00,479db251186a0778,2,139,flood-030
+r-68077b37bb,block_b,plumbing,No water supply in the Electronics Block washroom since morning,2026-02-02 12:53:00,ff09bf26760f4489,2,139,flood-030
+r-ad8300aaca,block_b,plumbing,"Leaking joint under the sink in Electronics Block, floor is slippery",2026-02-02 12:53:00,c97b1640faff077d,2,139,flood-030
+r-606bca3fd4,block_b,plumbing,"Pipe burst near Electronics Block, please send someone fast",2026-02-02 12:53:00,a42302db3c2c3cc5,2,139,flood-030
+r-f994978b7d,block_b,plumbing,"Washroom drain blocked in Electronics Block, water is standing",2026-02-02 12:54:00,18d6b89f58c60b9b,2,139,flood-030
+r-a59813180c,block_b,plumbing,"Washroom drain blocked in Electronics Block, water is standing",2026-02-02 12:54:00,cae09d2dbfa12c2f,2,139,flood-030
+r-579a5b2fd7,block_b,plumbing,"Washroom drain blocked in Electronics Block, water is standing",2026-02-02 12:54:00,e540ffa8390e18c4,2,139,flood-030
+r-fb80b28caa,block_b,plumbing,Tap is overflowing in Electronics Block and water is spreading,2026-02-02 12:55:00,55e622a590ca7668,2,139,flood-030
+r-19b827a50a,block_b,plumbing,"Leaking joint under the sink in Electronics Block, floor is slippery",2026-02-02 12:55:00,c18e4c34a4331bf1,2,139,flood-030
+r-58a06a495b,foodcourt,cleanliness,Garbage bins overflowing at Food Court,2026-02-02 21:17:00,a8d571a5f9e36882,1,71,flood-023
+r-4baba7ddbd,foodcourt,cleanliness,"Spilled food on the floor at Food Court, nobody is cleaning it",2026-02-02 21:17:00,0bc2bba35f0394ab,1,71,flood-023
+r-001454ccf8,foodcourt,cleanliness,Garbage bins overflowing at Food Court,2026-02-02 21:18:00,0a717066a9d61856,1,71,flood-023
+r-ba845daca0,foodcourt,cleanliness,Dustbins not cleared outside Food Court for two days,2026-02-02 21:19:00,850466a1c353680c,1,71,flood-023
+r-03ef3c3a21,foodcourt,cleanliness,Dustbins not cleared outside Food Court for two days,2026-02-02 21:22:00,b4410b89564c86b3,1,71,flood-023
+r-6c61217788,foodcourt,cleanliness,"Spilled food on the floor at Food Court, nobody is cleaning it",2026-02-02 21:23:00,1809c32cd222cd28,1,71,flood-023
+r-a800ce5e2c,foodcourt,cleanliness,Dustbins not cleared outside Food Court for two days,2026-02-02 21:25:00,13d4867747c05593,1,71,flood-023
+r-605033cc13,foodcourt,cleanliness,Dustbins not cleared outside Food Court for two days,2026-02-02 21:26:00,97ea7c8a79ed715b,1,71,flood-023
+r-26be90c0e5,block_a,food,"Curry at Computer Science Block has a strange smell, please inspect",2026-02-03 03:58:00,ddcccedfe2fd0488,2,122,single-005
+r-54c3924508,amphitheatre,safety,Group loitering and passing comments near Open Air Amphitheatre,2026-02-03 09:27:00,7acaa50d49d5d0e4,3,199,flood-028
+r-ca90ba0231,amphitheatre,safety,"Stray dog pack near Open Air Amphitheatre, students are scared to walk",2026-02-03 09:27:00,9f7940bd63719188,3,199,flood-028
+r-84dd67eaea,amphitheatre,safety,"Slippery floor near Open Air Amphitheatre, someone almost fell",2026-02-03 09:27:00,8660923b77d7833d,3,199,flood-028
+r-dbacf11c20,amphitheatre,safety,Emergency exit near Open Air Amphitheatre is blocked by parked carts,2026-02-03 09:28:00,87cc45c9d8ad7a41,3,199,flood-028
+r-d54e7693d7,amphitheatre,safety,Group loitering and passing comments near Open Air Amphitheatre,2026-02-03 09:29:00,201a25e0f5a5fe26,3,199,flood-028
+r-17ceded6c0,amphitheatre,safety,Emergency exit near Open Air Amphitheatre is blocked by parked carts,2026-02-03 09:30:00,0c0b1fb7b9189737,3,199,flood-028
+r-32b2183ac1,amphitheatre,safety,Group loitering and passing comments near Open Air Amphitheatre,2026-02-03 09:30:00,0f942cff82535ad7,3,199,flood-028
+r-541e17e1b8,amphitheatre,safety,"Streetlight is off on the path near Open Air Amphitheatre, it is very dark",2026-02-03 09:32:00,0257532801cbfde7,3,199,flood-028
+r-d85c5fda49,amphitheatre,safety,Suspicious person following students near Open Air Amphitheatre after dark,2026-02-03 09:32:00,a775803e1ac5e6b1,3,199,flood-028
+r-8086f9c477,amphitheatre,safety,Suspicious person following students near Open Air Amphitheatre after dark,2026-02-03 09:33:00,57954524c85fdb92,3,199,flood-028
+r-a2c96ef7ad,amphitheatre,safety,"Stray dog pack near Open Air Amphitheatre, students are scared to walk",2026-02-03 09:34:00,299021fdde9b240e,3,199,flood-028
+r-77c9f7105c,canteen_main,cleanliness,Tables at Main Canteen are sticky and uncleaned,2026-02-03 09:40:00,ca943adee4880724,0,18,single-001
+r-dfe6fee3b6,hostel_g1,electrical,Lights flickering and a burning smell in Girls Hostel G1,2026-02-03 22:14:00,0f5884cb965f9373,3,178,flood-009
+r-f9959a66ab,hostel_g1,electrical,"Power socket sparked in Girls Hostel G1, please check immediately",2026-02-03 22:14:00,df9a627627ef89e7,3,178,flood-009
+r-21ea4f6291,hostel_g1,electrical,Lights flickering and a burning smell in Girls Hostel G1,2026-02-03 22:15:00,4d9d79a3684c0677,3,178,flood-009
+r-524b12baf0,hostel_g1,electrical,"Fan and lights dead in Girls Hostel G1, main switch looks tripped",2026-02-03 22:16:00,063ba424dc9e99e6,3,178,flood-009
+r-ac5289efe7,hostel_g1,electrical,Lights flickering and a burning smell in Girls Hostel G1,2026-02-03 22:16:00,d53405714b0bc569,3,178,flood-009
+r-73e3761d40,hostel_g1,electrical,Lights flickering and a burning smell in Girls Hostel G1,2026-02-03 22:16:00,ef371407bfec614e,3,178,flood-009
+r-17878c9440,hostel_g1,electrical,"Fan and lights dead in Girls Hostel G1, main switch looks tripped",2026-02-03 22:17:00,b9241d2fc0b34beb,3,178,flood-009
+r-026b2abb81,hostel_g1,electrical,No electricity in the Girls Hostel G1 corridor since twenty minutes,2026-02-03 22:18:00,8a21dd4e20d6bfaf,3,178,flood-009
+r-f5ce0995ec,hostel_g1,electrical,The Girls Hostel G1 breaker keeps tripping every few minutes,2026-02-03 22:18:00,746787d9cc51a091,3,178,flood-009
+r-24860b72e7,hostel_g1,electrical,No electricity in the Girls Hostel G1 corridor since twenty minutes,2026-02-03 22:18:00,6ca0dba2f9c5bae1,3,178,flood-009
+r-00fed251e3,hostel_g1,electrical,"Fan and lights dead in Girls Hostel G1, main switch looks tripped",2026-02-03 22:20:00,44dd8a3714cbc433,3,178,flood-009
+r-47d8810c6a,hostel_g1,electrical,No electricity in the Girls Hostel G1 corridor since twenty minutes,2026-02-03 22:20:00,2f6161bec98e2e59,3,178,flood-009
+r-8ac394d6ae,hostel_g1,plumbing,Tap is overflowing in Girls Hostel G1 and water is spreading,2026-02-04 03:05:00,ec52ecceb101bdbf,0,21,single-032
+r-ef0bf6dee5,gate_north,plumbing,"Pipe burst near North Gate, please send someone fast",2026-02-04 10:31:00,46cbf2a29de256e3,1,62,single-062
+r-a561da604a,canteen_main,cleanliness,Garbage bins overflowing at Main Canteen,2026-02-05 13:02:00,d5a59fdcbfdc3385,1,67,flood-035
+r-e33cb95f95,canteen_main,cleanliness,Garbage bins overflowing at Main Canteen,2026-02-05 13:03:00,a98d3f849042b5c4,1,67,flood-035
+r-7911b69b16,canteen_main,cleanliness,"Spilled food on the floor at Main Canteen, nobody is cleaning it",2026-02-05 13:03:00,3229b911a1111a08,1,67,flood-035
+r-c181bdb47f,canteen_main,cleanliness,Garbage bins overflowing at Main Canteen,2026-02-05 13:04:00,fb6b14fc982af5f2,1,67,flood-035
+r-e3f87dbb21,canteen_main,cleanliness,Garbage bins overflowing at Main Canteen,2026-02-05 13:08:00,227fade8ac757e04,1,67,flood-035
+r-140807ca32,canteen_main,cleanliness,Tables at Main Canteen are sticky and uncleaned,2026-02-05 13:08:00,02dc3fea1bd9138d,1,67,flood-035
+r-17aebdc3b1,canteen_main,cleanliness,"Spilled food on the floor at Main Canteen, nobody is cleaning it",2026-02-05 13:08:00,b27fbe786553577a,1,67,flood-035
+r-74ff484adc,canteen_main,cleanliness,Washroom at Main Canteen is dirty and out of soap,2026-02-05 13:09:00,613a238acf562269,1,67,flood-035
+r-c0bb5ac859,canteen_main,cleanliness,Washroom at Main Canteen is dirty and out of soap,2026-02-05 13:10:00,51b2f3d39985f0b2,1,67,flood-035
+r-569037a170,canteen_main,cleanliness,Dustbins not cleared outside Main Canteen for two days,2026-02-05 13:10:00,55fd195be8b2d7fe,1,67,flood-035
+r-804faa10c2,canteen_main,cleanliness,Litter all around the Main Canteen seating area,2026-02-05 13:11:00,d22970faadb861c9,1,67,flood-035
+r-be657526ec,canteen_main,cleanliness,"Spilled food on the floor at Main Canteen, nobody is cleaning it",2026-02-05 13:11:00,5f6335f2591445a5,1,67,flood-035
+r-b8bbc4f173,canteen_main,cleanliness,Litter all around the Main Canteen seating area,2026-02-05 13:13:00,46cbf2a29de256e3,1,67,flood-035
+r-ff833238a8,canteen_main,cleanliness,Dustbins not cleared outside Main Canteen for two days,2026-02-05 13:14:00,03c90c4fdcbf1e29,1,67,flood-035
+r-78b0c4b0e7,canteen_main,cleanliness,Dustbins not cleared outside Main Canteen for two days,2026-02-05 13:15:00,da4838fc308d0a61,1,67,flood-035
+r-2c279789e3,canteen_main,cleanliness,Washroom at Main Canteen is dirty and out of soap,2026-02-05 13:15:00,a2bfc2da6405554b,1,67,flood-035
+r-b06249358d,canteen_main,cleanliness,Tables at Main Canteen are sticky and uncleaned,2026-02-05 13:15:00,0e1af08ac96e4ffb,1,67,flood-035
+r-1dded1d691,block_a,infrastructure,"Lift stuck between floors at Computer Science Block, please check",2026-02-06 03:19:00,8c20554691d13bf3,1,55,single-027
+r-7448a28cc8,library,plumbing,Water leaking from the ceiling in Central Library,2026-02-06 14:41:00,a0e505f0868e086e,1,47,single-018
+r-71f3d8fe2f,block_c,electrical,The Mechanical Block breaker keeps tripping every few minutes,2026-02-06 17:20:00,f6b62c55eb0519af,3,203,flood-003
+r-4c760e4a6f,block_c,electrical,Switchboard is buzzing loudly in Mechanical Block,2026-02-06 17:21:00,ada84c11858a2511,3,203,flood-003
+r-7ae0288a68,block_c,electrical,"Power socket sparked in Mechanical Block, please check immediately",2026-02-06 17:22:00,d126e53a6d4a9db4,3,203,flood-003
+r-632df207c5,block_c,electrical,"Power socket sparked in Mechanical Block, please check immediately",2026-02-06 17:22:00,55f2042e88a1886b,3,203,flood-003
+r-cbb2d4b6e8,block_c,electrical,"Power socket sparked in Mechanical Block, please check immediately",2026-02-06 17:27:00,0523b8a99398f64d,3,203,flood-003
+r-0b38b9da86,block_c,electrical,No electricity in the Mechanical Block corridor since twenty minutes,2026-02-06 17:28:00,eeeee355e817e223,3,203,flood-003
+r-f98e922b90,foodcourt,food,Insect found near the serving counter at Food Court,2026-02-06 18:06:00,0f0807c5608cbe1b,2,143,flood-001
+r-595fa94a7b,foodcourt,food,Undercooked rice served at Food Court during lunch,2026-02-06 18:07:00,6aa4432c0aa537e7,2,143,flood-001
+r-3a91cf1c75,foodcourt,food,"Curry at Food Court has a strange smell, please inspect",2026-02-06 18:09:00,2806d5af3463acc5,2,143,flood-001
+r-190bf323e3,foodcourt,food,Insect found near the serving counter at Food Court,2026-02-06 18:10:00,acc27413a779e254,2,143,flood-001
+r-3d41cd8b3f,foodcourt,food,The milk at Food Court tastes sour today,2026-02-06 18:10:00,105353e190e6ca55,2,143,flood-001
+r-d1bd314f69,foodcourt,food,Undercooked rice served at Food Court during lunch,2026-02-06 18:13:00,d44a1441f50ad677,2,143,flood-001
+r-f16fb3be18,foodcourt,food,"Food smells stale at Food Court, please check the batch",2026-02-06 18:14:00,9f3eb2bf91800498,2,143,flood-001
+r-2b5900f3da,canteen_main,cleanliness,Garbage bins overflowing at Main Canteen,2026-02-06 18:59:00,0eb345aa543eb151,0,20,flood-065
+r-0d025fd52e,canteen_main,cleanliness,Dustbins not cleared outside Main Canteen for two days,2026-02-06 18:59:00,b2f931edb75f2493,0,20,flood-065
+r-8b6a9ea1e2,canteen_main,cleanliness,Washroom at Main Canteen is dirty and out of soap,2026-02-06 19:00:00,6317b84a3f339b90,0,20,flood-065
+r-2584d8c545,canteen_main,cleanliness,Washroom at Main Canteen is dirty and out of soap,2026-02-06 19:00:00,076267836cb927c9,0,20,flood-065
+r-2ce5dc404c,canteen_main,cleanliness,Dustbins not cleared outside Main Canteen for two days,2026-02-06 19:01:00,3a3c2292eeaf04cb,0,20,flood-065
+r-999908977d,canteen_main,cleanliness,Dustbins not cleared outside Main Canteen for two days,2026-02-06 19:01:00,82bdac590749bd48,0,20,flood-065
+r-8ea1941b1f,canteen_main,cleanliness,Dustbins not cleared outside Main Canteen for two days,2026-02-06 19:03:00,1b27e87afed4fde4,0,20,flood-065
+r-673a559c6a,hostel_b1,wifi,"Campus wifi not working in Boys Hostel B1, authentication keeps failing",2026-02-06 19:40:00,7f9857b9b727cda1,2,112,flood-000
+r-66151e87ec,hostel_b1,wifi,"Internet down in Boys Hostel B1, the whole floor is affected",2026-02-06 19:40:00,5fec1550ee0e9d14,2,112,flood-000
+r-162d84a3a2,hostel_b1,wifi,Wifi is dead in the Boys Hostel B1 wing and nobody can submit assignments,2026-02-06 19:40:00,9af2081f1d189335,2,112,flood-000
+r-fd6c9cbf6a,hostel_b1,wifi,"Cannot connect to eduroam in Boys Hostel B1, it times out every time",2026-02-06 19:45:00,d033fced033e1483,2,112,flood-000
+r-ceaba04e10,hostel_b1,wifi,"Campus wifi not working in Boys Hostel B1, authentication keeps failing",2026-02-06 19:46:00,06ad206b1c1167ac,2,112,flood-000
+r-658e12fb8a,hostel_b1,wifi,"No internet in Boys Hostel B1, eduroam shows connected but nothing loads",2026-02-06 19:47:00,cabb0baf07243677,2,112,flood-000
+r-6c1841e277,hostel_b1,wifi,"Internet down in Boys Hostel B1, the whole floor is affected",2026-02-06 19:48:00,ab27c28a59d6782e,2,112,flood-000
+r-09a931464e,hostel_b1,wifi,Boys Hostel B1 has zero signal bars and the hotspot says no internet,2026-02-06 19:49:00,ec696ec0f8a48671,2,112,flood-000
+r-654c47aaa0,hostel_b1,wifi,Wi-Fi keeps dropping near Boys Hostel B1 since the last ten minutes,2026-02-06 19:50:00,d3da1de710f92b12,2,112,flood-000
+r-1eba848cc8,hostel_b1,wifi,Wifi is dead in the Boys Hostel B1 wing and nobody can submit assignments,2026-02-06 19:50:00,e1a43b2c52c5c4e2,2,112,flood-000
+r-7b8a7f2730,hostel_b1,wifi,"Cannot connect to eduroam in Boys Hostel B1, it times out every time",2026-02-06 19:51:00,ccf7a4cb1ad80d83,2,112,flood-000
+r-2176478cdc,hostel_b1,wifi,Boys Hostel B1 has zero signal bars and the hotspot says no internet,2026-02-06 19:51:00,ca3888c13b331db1,2,112,flood-000
+r-2319884759,hostel_b1,wifi,"Campus wifi not working in Boys Hostel B1, authentication keeps failing",2026-02-06 19:53:00,c32a262bb42f3ac1,2,112,flood-000
+r-4302dcba35,hostel_b1,wifi,Boys Hostel B1 has zero signal bars and the hotspot says no internet,2026-02-06 19:55:00,73fbc3b77f04d084,2,112,flood-000
+r-b644d0bf0c,hostel_b1,wifi,Boys Hostel B1 has zero signal bars and the hotspot says no internet,2026-02-06 19:56:00,4bfb0b6f38a6215c,2,112,flood-000
+r-79c9e90d2d,hostel_b1,wifi,"No internet in Boys Hostel B1, eduroam shows connected but nothing loads",2026-02-06 19:57:00,48280d655b4de118,2,112,flood-000
+r-d42a5d7339,amphitheatre,safety,"Stray dog pack near Open Air Amphitheatre, students are scared to walk",2026-02-06 20:11:00,7b2de5e771923e64,3,186,flood-002
+r-9e4b179097,amphitheatre,safety,Suspicious person following students near Open Air Amphitheatre after dark,2026-02-06 20:14:00,3a6ad408e32c0e6b,3,186,flood-002
+r-b741f75885,amphitheatre,safety,Suspicious person following students near Open Air Amphitheatre after dark,2026-02-06 20:18:00,04b78adff94f12d0,3,186,flood-002
+r-9e6d41a55c,amphitheatre,safety,"Streetlight is off on the path near Open Air Amphitheatre, it is very dark",2026-02-06 20:19:00,a79efa1d8d500b10,3,186,flood-002
+r-5bcd5fc9f7,amphitheatre,safety,Suspicious person following students near Open Air Amphitheatre after dark,2026-02-06 20:19:00,74f79c75a13ad0cf,3,186,flood-002
+r-2bdfef26e4,canteen_main,food,Insect found near the serving counter at Main Canteen,2026-02-08 07:21:00,d35899c9c4e25a29,3,164,flood-061
+r-fefeced405,canteen_main,food,The milk at Main Canteen tastes sour today,2026-02-08 07:22:00,1f9599f99c0ddb6f,3,164,flood-061
+r-ad53a7d4c3,canteen_main,food,"Curry at Main Canteen has a strange smell, please inspect",2026-02-08 07:24:00,573ffe9247d588e9,3,164,flood-061
+r-7a884fa72e,canteen_main,food,"Curry at Main Canteen has a strange smell, please inspect",2026-02-08 07:24:00,672a96089f5cecf2,3,164,flood-061
+r-c595d72666,canteen_main,food,Undercooked rice served at Main Canteen during lunch,2026-02-08 07:25:00,ce2dba83713ab567,3,164,flood-061
+r-c2f5c5600a,canteen_main,food,"Hygiene issue at the Main Canteen counter, plates look unwashed",2026-02-08 07:25:00,f1cada4179ca237a,3,164,flood-061
+r-203ef08f5d,canteen_main,food,"Curry at Main Canteen has a strange smell, please inspect",2026-02-08 07:26:00,f35ea6d2f03d0087,3,164,flood-061
+r-72ccaaeeb2,canteen_main,food,The milk at Main Canteen tastes sour today,2026-02-08 07:26:00,3863af7b45761297,3,164,flood-061
+r-f08fbdbb2f,canteen_main,food,"Hygiene issue at the Main Canteen counter, plates look unwashed",2026-02-08 07:27:00,2023fb2365e9b897,3,164,flood-061
+r-f0c78c5655,canteen_main,food,Insect found near the serving counter at Main Canteen,2026-02-08 07:27:00,8083383b765d980a,3,164,flood-061
+r-290c7a7ff3,canteen_main,food,Insect found near the serving counter at Main Canteen,2026-02-08 07:28:00,1cd21abd8c1f0302,3,164,flood-061
+r-5388968f8d,canteen_main,food,"Curry at Main Canteen has a strange smell, please inspect",2026-02-08 07:29:00,9c4ae056a56edcd4,3,164,flood-061
+r-b5b4a50fb9,canteen_main,food,"Food smells stale at Main Canteen, please check the batch",2026-02-08 07:30:00,55583fb42f30fffe,3,164,flood-061
+r-4862a15237,canteen_main,food,"Food smells stale at Main Canteen, please check the batch",2026-02-08 07:30:00,44963c5a8c266e25,3,164,flood-061
+r-e3576ce2b2,canteen_main,food,Undercooked rice served at Main Canteen during lunch,2026-02-08 07:30:00,54fe4b8da563df94,3,164,flood-061
+r-f03eabaaf7,canteen_main,food,"Hygiene issue at the Main Canteen counter, plates look unwashed",2026-02-08 07:31:00,16cece997c995f77,3,164,flood-061
+r-4a74bfa514,canteen_main,food,"Food smells stale at Main Canteen, please check the batch",2026-02-08 07:33:00,07baee2b768e0ff8,3,164,flood-061
+r-011904f32b,gate_north,safety,"Streetlight is off on the path near North Gate, it is very dark",2026-02-08 16:35:00,4844906844d3c220,3,197,flood-066
+r-dca5ed9dad,gate_north,safety,"Slippery floor near North Gate, someone almost fell",2026-02-08 16:35:00,37e2681cb8e3c58b,3,197,flood-066
+r-72f9b87a15,gate_north,safety,"Streetlight is off on the path near North Gate, it is very dark",2026-02-08 16:36:00,b1b5e99b0328017c,3,197,flood-066
+r-4ff26a7291,gate_north,safety,Suspicious person following students near North Gate after dark,2026-02-08 16:36:00,2429c98f8fc354b3,3,197,flood-066
+r-72ba9ac755,gate_north,safety,Group loitering and passing comments near North Gate,2026-02-08 16:37:00,611b0e0a22522534,3,197,flood-066
+r-ba2b7b68f5,gate_north,safety,"Slippery floor near North Gate, someone almost fell",2026-02-08 16:39:00,085ac47e9305fc59,3,197,flood-066
+r-18bf7d63bb,gate_north,safety,Group loitering and passing comments near North Gate,2026-02-08 16:40:00,8ff364d24d44d584,3,197,flood-066
+r-59906411dd,gate_north,safety,Emergency exit near North Gate is blocked by parked carts,2026-02-08 16:40:00,587acf481bdde251,3,197,flood-066
+r-e57567d69b,gate_north,safety,"Streetlight is off on the path near North Gate, it is very dark",2026-02-08 16:40:00,b92f610363ce21ea,3,197,flood-066
+r-c738a6b6da,gate_north,safety,Group loitering and passing comments near North Gate,2026-02-08 16:40:00,8c6cd2686792d8f5,3,197,flood-066
+r-ffd63cf943,gate_north,safety,Emergency exit near North Gate is blocked by parked carts,2026-02-08 16:41:00,b8aa548dda8a1745,3,197,flood-066
+r-abeb2b0e3b,gate_north,safety,"Streetlight is off on the path near North Gate, it is very dark",2026-02-08 16:42:00,422cdb47564f905e,3,197,flood-066
+r-bad730c1cb,gate_north,safety,Suspicious person following students near North Gate after dark,2026-02-08 16:42:00,a7721399e2a94ea4,3,197,flood-066
+r-5514455023,gate_north,safety,"Slippery floor near North Gate, someone almost fell",2026-02-08 16:43:00,264601ae94cb11b5,3,197,flood-066
+r-f3d963e421,gate_north,safety,"Slippery floor near North Gate, someone almost fell",2026-02-08 16:43:00,b4c86d43bcd94959,3,197,flood-066
+r-915522d80c,gate_north,safety,"Slippery floor near North Gate, someone almost fell",2026-02-08 16:44:00,7f04f39a91f8768f,3,197,flood-066
+r-8049ec68e8,gate_north,safety,"Streetlight is off on the path near North Gate, it is very dark",2026-02-08 16:44:00,902c8ec3565fbe7c,3,197,flood-066
+r-5777a88ad6,gate_north,safety,Emergency exit near North Gate is blocked by parked carts,2026-02-08 16:45:00,5df77fd0b53626d1,3,197,flood-066
+r-98410e3087,sports,infrastructure,"Lift stuck between floors at Sports Complex, please check",2026-02-08 17:22:00,14f5bcd2f482173c,2,152,flood-056
+r-297fd86d37,sports,infrastructure,Broken chair and exposed nail in the Sports Complex seating area,2026-02-08 17:22:00,7eb02f4663227a61,2,152,flood-056
+r-0e6004fcad,sports,infrastructure,"Lift stuck between floors at Sports Complex, please check",2026-02-08 17:23:00,c0d80c1e479f5be3,2,152,flood-056
+r-6717099504,sports,infrastructure,Window glass cracked in Sports Complex after the storm,2026-02-08 17:24:00,8d7a7cc71f82ad1c,2,152,flood-056
+r-0f2f202588,sports,infrastructure,Window glass cracked in Sports Complex after the storm,2026-02-08 17:26:00,6010a59973027c02,2,152,flood-056
+r-c44a8308da,sports,infrastructure,"Cracked pavement outside Sports Complex, trip hazard",2026-02-08 17:26:00,5c60cdf7eeb957f3,2,152,flood-056
+r-140e830b3a,sports,infrastructure,"Ceiling tile fell down in Sports Complex, area is unsafe",2026-02-08 17:30:00,94d2a6063180514d,2,152,flood-056
+r-91287d7574,sports,infrastructure,"Ceiling tile fell down in Sports Complex, area is unsafe",2026-02-08 17:31:00,8bc2ebb77f47d4c5,2,152,flood-056
+r-b118d2f457,sports,infrastructure,Window glass cracked in Sports Complex after the storm,2026-02-08 17:33:00,b300cfdf264e27b5,2,152,flood-056
+r-abd5f20ca0,sports,infrastructure,Window glass cracked in Sports Complex after the storm,2026-02-08 17:34:00,42dee00e7a6f73be,2,152,flood-056
+r-23d35692c8,sports,infrastructure,"Door latch broken at Sports Complex, it will not close",2026-02-08 17:34:00,c9d61a46a2aa5143,2,152,flood-056
+r-6809ec893d,sports,infrastructure,Window glass cracked in Sports Complex after the storm,2026-02-08 17:34:00,e5c0d4f1d827ab0e,2,152,flood-056
+r-cb056b0df5,sports,infrastructure,"Ceiling tile fell down in Sports Complex, area is unsafe",2026-02-08 17:35:00,82e0035c8f599d88,2,152,flood-056
+r-9c1915e4ef,sports,infrastructure,Broken chair and exposed nail in the Sports Complex seating area,2026-02-08 17:36:00,30b9433d4635b9f2,2,152,flood-056
+r-c4aef7aee5,block_a,wifi,"Internet down in Computer Science Block, the whole floor is affected",2026-02-08 19:10:00,5484a61fecc84f8a,1,95,single-061
+r-0c74f877aa,vending_hub,cleanliness,Tables at Vending & ATM Hub are sticky and uncleaned,2026-02-08 20:46:00,1b524994e99e970b,0,15,flood-046
+r-5e14fd358b,vending_hub,cleanliness,Litter all around the Vending & ATM Hub seating area,2026-02-08 20:48:00,36b89068166bb758,0,15,flood-046
+r-a3e74e5d2a,vending_hub,cleanliness,Dustbins not cleared outside Vending & ATM Hub for two days,2026-02-08 20:50:00,feb08fea84db00d7,0,15,flood-046
+r-65e170a3b6,vending_hub,cleanliness,"Spilled food on the floor at Vending & ATM Hub, nobody is cleaning it",2026-02-08 20:50:00,9c14e99e20f5d7b3,0,15,flood-046
+r-cd442fe9d3,vending_hub,cleanliness,Dustbins not cleared outside Vending & ATM Hub for two days,2026-02-08 20:52:00,2124af7797bff55b,0,15,flood-046
+r-cafc5862be,amphitheatre,wifi,"No internet in Open Air Amphitheatre, eduroam shows connected but nothing loads",2026-02-09 05:37:00,252473f521b45ff5,1,62,single-066
+r-7820357439,hostel_b2,safety,Suspicious person following students near Boys Hostel B2 after dark,2026-02-09 21:14:00,677730cc2d61e6a1,3,142,single-056
+r-da6369956f,gate_main,infrastructure,"Door latch broken at Main Gate, it will not close",2026-02-10 17:34:00,be451839f44d5a65,0,10,single-023
+r-b058531848,sports,safety,"Streetlight is off on the path near Sports Complex, it is very dark",2026-02-11 11:47:00,8ee9f2f74705e74c,3,202,flood-041
+r-18c6c1c39b,sports,safety,"Slippery floor near Sports Complex, someone almost fell",2026-02-11 11:47:00,b2a114cae50101b4,3,202,flood-041
+r-335e23d7a4,sports,safety,"Streetlight is off on the path near Sports Complex, it is very dark",2026-02-11 11:48:00,b74881caf20c92c3,3,202,flood-041
+r-28c4230170,sports,safety,Suspicious person following students near Sports Complex after dark,2026-02-11 11:49:00,7c5e1a1b71ef8e8c,3,202,flood-041
+r-8de89e6cdd,sports,safety,"Slippery floor near Sports Complex, someone almost fell",2026-02-11 11:49:00,0d7e2a2b7cd78983,3,202,flood-041
+r-107daf3360,sports,safety,"Stray dog pack near Sports Complex, students are scared to walk",2026-02-11 11:49:00,66ebea40208b9c56,3,202,flood-041
+r-76c760f30b,sports,safety,"Slippery floor near Sports Complex, someone almost fell",2026-02-11 11:49:00,5584dec55f60f5f0,3,202,flood-041
+r-a1b8f35faf,sports,safety,"Stray dog pack near Sports Complex, students are scared to walk",2026-02-11 11:49:00,143c0a3760b07aa2,3,202,flood-041
+r-9b5b20b16b,sports,safety,"Stray dog pack near Sports Complex, students are scared to walk",2026-02-11 11:49:00,0b83c1f2284797cf,3,202,flood-041
+r-88807a4e2e,sports,safety,"Slippery floor near Sports Complex, someone almost fell",2026-02-11 11:50:00,9529d37777ccb5f9,3,202,flood-041
+r-ae7491d2f1,sports,safety,"Slippery floor near Sports Complex, someone almost fell",2026-02-11 11:51:00,ee235e4e750ab9e4,3,202,flood-041
+r-ea5b1232da,sports,safety,"Streetlight is off on the path near Sports Complex, it is very dark",2026-02-11 11:52:00,98399c1655b0b5df,3,202,flood-041
+r-c831d09922,sports,safety,"Streetlight is off on the path near Sports Complex, it is very dark",2026-02-11 11:52:00,b6f822ffcc02e39c,3,202,flood-041
+r-539f361f39,sports,safety,"Stray dog pack near Sports Complex, students are scared to walk",2026-02-11 11:52:00,b774ead4ba11f458,3,202,flood-041
+r-07b32b2ba1,sports,safety,"Stray dog pack near Sports Complex, students are scared to walk",2026-02-11 11:52:00,43a9159d7a37ff8e,3,202,flood-041
+r-83e4666891,sports,safety,"Slippery floor near Sports Complex, someone almost fell",2026-02-11 11:52:00,ea03f41d8d94cd59,3,202,flood-041
+r-36dda5e5bf,sports,plumbing,Tap is overflowing in Sports Complex and water is spreading,2026-02-11 16:24:00,7abd0719033ed6e3,1,76,single-041
+r-c8c2049d2e,amphitheatre,safety,"Streetlight is off on the path near Open Air Amphitheatre, it is very dark",2026-02-13 11:26:00,ba05da84672b596f,3,208,flood-059
+r-2826114360,amphitheatre,safety,"Stray dog pack near Open Air Amphitheatre, students are scared to walk",2026-02-13 11:28:00,99cf7117a554fa78,3,208,flood-059
+r-5d3ad52d91,amphitheatre,safety,"Slippery floor near Open Air Amphitheatre, someone almost fell",2026-02-13 11:28:00,67fb9be4cb9b7e4d,3,208,flood-059
+r-cb7f9e1f74,amphitheatre,safety,Emergency exit near Open Air Amphitheatre is blocked by parked carts,2026-02-13 11:29:00,aeb368fb23b2488d,3,208,flood-059
+r-0aeb693eba,amphitheatre,safety,Suspicious person following students near Open Air Amphitheatre after dark,2026-02-13 11:29:00,fff1913dfd980ec9,3,208,flood-059
+r-e6336f2f3a,amphitheatre,safety,Emergency exit near Open Air Amphitheatre is blocked by parked carts,2026-02-13 11:30:00,80139dfe0b03e41b,3,208,flood-059
+r-bfc66784f5,amphitheatre,safety,"Streetlight is off on the path near Open Air Amphitheatre, it is very dark",2026-02-13 11:31:00,8b36466d37ea9fd5,3,208,flood-059
+r-603b5324a3,amphitheatre,safety,"Streetlight is off on the path near Open Air Amphitheatre, it is very dark",2026-02-13 11:31:00,b42dba776c06f4d6,3,208,flood-059
+r-43fdea24ab,amphitheatre,safety,"Streetlight is off on the path near Open Air Amphitheatre, it is very dark",2026-02-13 11:31:00,479cfcb0aeb13a29,3,208,flood-059
+r-6f3a3dcdeb,amphitheatre,safety,"Streetlight is off on the path near Open Air Amphitheatre, it is very dark",2026-02-13 11:31:00,fb19582b9fd05e61,3,208,flood-059
+r-7d510e9e48,amphitheatre,safety,"Streetlight is off on the path near Open Air Amphitheatre, it is very dark",2026-02-13 11:32:00,1b116c7db5710ad3,3,208,flood-059
+r-683835ecba,amphitheatre,safety,"Streetlight is off on the path near Open Air Amphitheatre, it is very dark",2026-02-13 11:32:00,7bafa38c278e1eda,3,208,flood-059
+r-d92146b8a3,amphitheatre,safety,"Slippery floor near Open Air Amphitheatre, someone almost fell",2026-02-13 11:32:00,b138092940830279,3,208,flood-059
+r-51531cfcba,sports,cleanliness,"Spilled food on the floor at Sports Complex, nobody is cleaning it",2026-02-14 09:00:00,eac159fcd2bf1285,0,17,single-017
+r-a0d7aade4b,library,safety,Emergency exit near Central Library is blocked by parked carts,2026-02-14 09:07:00,a901bb10d55f8ec1,3,187,flood-017
+r-09d92734bc,library,safety,"Slippery floor near Central Library, someone almost fell",2026-02-14 09:07:00,7c9a38ff884ab0c6,3,187,flood-017
+r-5e274bce78,library,safety,"Stray dog pack near Central Library, students are scared to walk",2026-02-14 09:07:00,6dd0078838134f31,3,187,flood-017
+r-ba2010127d,library,safety,"Streetlight is off on the path near Central Library, it is very dark",2026-02-14 09:08:00,f48c96b0f0b41346,3,187,flood-017
+r-00aca82a7e,library,safety,Suspicious person following students near Central Library after dark,2026-02-14 09:09:00,9c49c7ae89cd8961,3,187,flood-017
+r-ef80dcb01e,library,safety,"Streetlight is off on the path near Central Library, it is very dark",2026-02-14 09:10:00,f346bc030081b702,3,187,flood-017
+r-54ea24fec2,library,infrastructure,"Cracked pavement outside Central Library, trip hazard",2026-02-15 15:33:00,a76ef5cbdbb8cb8c,3,211,flood-006
+r-66a9e0a5a5,library,infrastructure,"Cracked pavement outside Central Library, trip hazard",2026-02-15 15:37:00,a761f7ae04577c85,3,211,flood-006
+r-d8a9a56103,library,infrastructure,"Lift stuck between floors at Central Library, please check",2026-02-15 15:38:00,1a7a90c1944a9f03,3,211,flood-006
+r-e95efe8496,library,infrastructure,"Ceiling tile fell down in Central Library, area is unsafe",2026-02-15 15:38:00,e61ff8bf91d89cb8,3,211,flood-006
+r-b16c078659,library,infrastructure,"Lift stuck between floors at Central Library, please check",2026-02-15 15:43:00,98469ec24380b888,3,211,flood-006
+r-a51e8558d9,library,infrastructure,Broken chair and exposed nail in the Central Library seating area,2026-02-15 15:43:00,1f5b91b7058a5731,3,211,flood-006
+r-17911a8cbd,library,infrastructure,Broken chair and exposed nail in the Central Library seating area,2026-02-15 15:44:00,2df3f12c24a5a29d,3,211,flood-006
+r-3beb828109,library,infrastructure,"Ceiling tile fell down in Central Library, area is unsafe",2026-02-15 15:45:00,07abcb1fe7035f34,3,211,flood-006
+r-d45f32ac95,library,infrastructure,"Door latch broken at Central Library, it will not close",2026-02-15 15:46:00,9453ef62268b4183,3,211,flood-006
+r-24f92baf5b,library,infrastructure,Broken chair and exposed nail in the Central Library seating area,2026-02-15 15:46:00,b9f9678cd606f963,3,211,flood-006
+r-bd10eeb7dd,library,infrastructure,"Lift stuck between floors at Central Library, please check",2026-02-15 15:47:00,5c60cdf7eeb957f3,3,211,flood-006
+r-1a28736645,hostel_g1,safety,Group loitering and passing comments near Girls Hostel G1,2026-02-15 15:48:00,6efb7b6342067ef7,3,175,flood-051
+r-d95289923a,hostel_g1,safety,Group loitering and passing comments near Girls Hostel G1,2026-02-15 15:51:00,e19f0f1b3cfb92f3,3,175,flood-051
+r-ec962de304,hostel_g1,safety,Group loitering and passing comments near Girls Hostel G1,2026-02-15 15:51:00,e7363048504bf09e,3,175,flood-051
+r-34c0f1827e,hostel_g1,safety,Group loitering and passing comments near Girls Hostel G1,2026-02-15 15:52:00,305bcc1943e9f0c4,3,175,flood-051
+r-b8f3f0cfea,hostel_g1,safety,"Slippery floor near Girls Hostel G1, someone almost fell",2026-02-15 15:54:00,21b2420ea018ceae,3,175,flood-051
+r-9998671e9a,mess_north,food,Undercooked rice served at North Mess during lunch,2026-02-15 19:50:00,63d70935b5182bbf,3,179,flood-060
+r-5f71d9fbc3,mess_north,food,"Hygiene issue at the North Mess counter, plates look unwashed",2026-02-15 19:50:00,621891e1d380bc33,3,179,flood-060
+r-f16a9c744b,mess_north,food,Insect found near the serving counter at North Mess,2026-02-15 19:51:00,a4eec0fde511d76c,3,179,flood-060
+r-55fc169938,mess_north,food,The milk at North Mess tastes sour today,2026-02-15 19:55:00,42b07f23a9cf6693,3,179,flood-060
+r-29ce2a2d60,mess_north,food,"Curry at North Mess has a strange smell, please inspect",2026-02-15 19:56:00,74365e98675fff8b,3,179,flood-060
+r-d928afdc6c,mess_north,food,Insect found near the serving counter at North Mess,2026-02-15 19:57:00,d02bd1ddf8d4bcf2,3,179,flood-060
+r-4febd887c9,mess_north,food,Undercooked rice served at North Mess during lunch,2026-02-15 19:58:00,716514402ab75835,3,179,flood-060
+r-0ef488ae44,mess_north,food,"Curry at North Mess has a strange smell, please inspect",2026-02-15 19:58:00,90adf90c4f916aa1,3,179,flood-060
+r-d0ed0e2cb8,laundry,food,"Hygiene issue at the Laundry Block counter, plates look unwashed",2026-02-15 21:23:00,644e5343f433c8e9,2,101,single-059
+r-da8f18114d,block_a,electrical,"Power socket sparked in Computer Science Block, please check immediately",2026-02-16 16:14:00,1a294a5832fd533f,3,168,flood-008
+r-d3acab85b0,block_a,electrical,The Computer Science Block breaker keeps tripping every few minutes,2026-02-16 16:15:00,5f3029329f8f0c1f,3,168,flood-008
+r-245d8880ba,block_a,electrical,"Power socket sparked in Computer Science Block, please check immediately",2026-02-16 16:16:00,ae774291b6f6ba71,3,168,flood-008
+r-685a439fe8,block_a,electrical,"Fan and lights dead in Computer Science Block, main switch looks tripped",2026-02-16 16:17:00,3d971a021283dafb,3,168,flood-008
+r-a8c3e476c6,block_a,electrical,Lights flickering and a burning smell in Computer Science Block,2026-02-16 16:19:00,203791fd1905dc7f,3,168,flood-008
+r-bdc0d0955e,block_a,electrical,"Fan and lights dead in Computer Science Block, main switch looks tripped",2026-02-16 16:21:00,065753db7f643414,3,168,flood-008
+r-e39254a2fb,block_a,electrical,No electricity in the Computer Science Block corridor since twenty minutes,2026-02-16 16:21:00,cac4093a946bf856,3,168,flood-008
+r-11d80b9897,block_a,wifi,Computer Science Block has zero signal bars and the hotspot says no internet,2026-02-16 17:38:00,13158cca47dcafd3,2,115,flood-022
+r-d6a892140c,block_a,wifi,"No internet in Computer Science Block, eduroam shows connected but nothing loads",2026-02-16 17:39:00,fb5ee1e6ce9bd16d,2,115,flood-022
+r-7e5c8d3c6a,block_a,wifi,"Cannot connect to eduroam in Computer Science Block, it times out every time",2026-02-16 17:39:00,b2b928bba6f5e6ae,2,115,flood-022
+r-ac8b45de42,block_a,wifi,Wi-Fi keeps dropping near Computer Science Block since the last ten minutes,2026-02-16 17:40:00,ed8262fad78713d4,2,115,flood-022
+r-9b1dd7ea56,block_a,wifi,"No internet in Computer Science Block, eduroam shows connected but nothing loads",2026-02-16 17:41:00,3ae2ccc19f180864,2,115,flood-022
+r-569fc9a3bd,block_a,wifi,Frequent disconnections on the Computer Science Block access point tonight,2026-02-16 17:43:00,385e201956c93d32,2,115,flood-022
+r-a448535837,block_a,wifi,Wifi is dead in the Computer Science Block wing and nobody can submit assignments,2026-02-16 17:44:00,54240f8258efd9a3,2,115,flood-022
+r-96f6d288a1,block_a,wifi,"Internet down in Computer Science Block, the whole floor is affected",2026-02-16 17:44:00,a333283ddf757759,2,115,flood-022
+r-105bcdc9eb,block_a,wifi,"No internet in Computer Science Block, eduroam shows connected but nothing loads",2026-02-16 17:49:00,9fbd8c91c3d88f75,2,115,flood-022
+r-7d4d97dd9e,block_a,wifi,"Cannot connect to eduroam in Computer Science Block, it times out every time",2026-02-16 17:51:00,220d482afb2b13f8,2,115,flood-022
+r-edf4f13fa3,block_a,wifi,"Campus wifi not working in Computer Science Block, authentication keeps failing",2026-02-16 17:56:00,de8bba51b741a01f,2,115,flood-022
+r-109a6de635,block_a,wifi,"Campus wifi not working in Computer Science Block, authentication keeps failing",2026-02-16 17:56:00,8f1661b6c537e17b,2,115,flood-022
+r-dfbb068745,canteen_north,food,The milk at North Canteen tastes sour today,2026-02-17 06:38:00,f6acc58842d2e921,2,106,single-042
+r-6a46d4e5eb,mess_north,food,The milk at North Mess tastes sour today,2026-02-17 08:05:00,51c3e09270ac534e,2,125,flood-012
+r-9134865768,mess_north,food,The milk at North Mess tastes sour today,2026-02-17 08:12:00,105445a739d16e49,2,125,flood-012
+r-3f8fd0dc73,mess_north,food,Insect found near the serving counter at North Mess,2026-02-17 08:16:00,abba9047f80dc7c7,2,125,flood-012
+r-c59fff5102,mess_north,food,The milk at North Mess tastes sour today,2026-02-17 08:16:00,19c204db713b5d9e,2,125,flood-012
+r-07b9f58b98,mess_north,food,The milk at North Mess tastes sour today,2026-02-17 08:17:00,5b7d6ddd09877c25,2,125,flood-012
+r-a4b78d7994,canteen_north,food,"Food smells stale at North Canteen, please check the batch",2026-02-17 08:29:00,4ef88cccc9e9efc0,2,142,flood-081
+r-f9e1a31e90,canteen_north,food,The milk at North Canteen tastes sour today,2026-02-17 08:29:00,0f766497fcaf153f,2,142,flood-081
+r-6a3df8f45c,canteen_north,food,"Hygiene issue at the North Canteen counter, plates look unwashed",2026-02-17 08:29:00,ebbef9ddd079c723,2,142,flood-081
+r-c4fd98630e,canteen_north,food,"Food smells stale at North Canteen, please check the batch",2026-02-17 08:29:00,a887924acf17c36c,2,142,flood-081
+r-db1d7061d6,canteen_north,food,"Food smells stale at North Canteen, please check the batch",2026-02-17 08:29:00,bdca0d782e320f1e,2,142,flood-081
+r-cba476ddf0,canteen_north,food,Undercooked rice served at North Canteen during lunch,2026-02-17 08:29:00,4ba9514dbf74d6a7,2,142,flood-081
+r-a7bdde770c,canteen_north,food,"Food smells stale at North Canteen, please check the batch",2026-02-17 08:30:00,3cd6e4c482ff700e,2,142,flood-081
+r-f073d4a6f9,canteen_north,food,"Food smells stale at North Canteen, please check the batch",2026-02-17 08:31:00,90f9f0f9b9e818e8,2,142,flood-081
+r-c4b79922ef,canteen_north,food,"Hygiene issue at the North Canteen counter, plates look unwashed",2026-02-17 08:31:00,ed54af8db0a41868,2,142,flood-081
+r-b3a961943e,canteen_north,food,"Hygiene issue at the North Canteen counter, plates look unwashed",2026-02-17 08:32:00,c71512d0ee7bb8c1,2,142,flood-081
+r-d0666aca52,canteen_north,food,"Hygiene issue at the North Canteen counter, plates look unwashed",2026-02-17 08:32:00,031df182e398405d,2,142,flood-081
+r-bd109bbea3,canteen_north,food,"Food smells stale at North Canteen, please check the batch",2026-02-17 08:32:00,2283836ee5ec3203,2,142,flood-081
+r-e53517d953,canteen_north,food,"Curry at North Canteen has a strange smell, please inspect",2026-02-17 08:33:00,0076cb9205ecc5cb,2,142,flood-081
+r-962d01e5cc,canteen_north,food,"Curry at North Canteen has a strange smell, please inspect",2026-02-17 08:33:00,e66c66d20bf102c6,2,142,flood-081
+r-94e62d7065,canteen_north,food,"Food smells stale at North Canteen, please check the batch",2026-02-17 08:33:00,b6fafb9abf844308,2,142,flood-081
+r-d055154f10,canteen_north,food,"Hygiene issue at the North Canteen counter, plates look unwashed",2026-02-17 08:33:00,20f0a92525376d92,2,142,flood-081
+r-172f4f84e8,canteen_north,food,Insect found near the serving counter at North Canteen,2026-02-17 08:33:00,e01cddb7c4d1f742,2,142,flood-081
+r-d4691f3650,foodcourt,food,Undercooked rice served at Food Court during lunch,2026-02-17 12:33:00,65410c3a27d99821,3,187,flood-038
+r-ace0498a95,foodcourt,food,"Food smells stale at Food Court, please check the batch",2026-02-17 12:33:00,ea812ea44fddcdc9,3,187,flood-038
+r-688bd719df,foodcourt,food,The milk at Food Court tastes sour today,2026-02-17 12:33:00,2b5c67ec829d937b,3,187,flood-038
+r-00f4d83d1e,foodcourt,food,"Food smells stale at Food Court, please check the batch",2026-02-17 12:33:00,5a8d2fcd7e7fd98b,3,187,flood-038
+r-db8839d79f,foodcourt,food,"Hygiene issue at the Food Court counter, plates look unwashed",2026-02-17 12:35:00,0786cc99e2167b1d,3,187,flood-038
+r-5fed0e89a3,foodcourt,food,"Food smells stale at Food Court, please check the batch",2026-02-17 12:35:00,efbd1382fb1dc74e,3,187,flood-038
+r-064a558494,foodcourt,food,Undercooked rice served at Food Court during lunch,2026-02-17 12:38:00,aeae2cd030a9214f,3,187,flood-038
+r-f2ab6f0acd,foodcourt,food,The milk at Food Court tastes sour today,2026-02-17 12:38:00,b5968aaf9b37082e,3,187,flood-038
+r-3ea6e5afbe,foodcourt,food,Undercooked rice served at Food Court during lunch,2026-02-17 12:38:00,e8622cde68b25828,3,187,flood-038
+r-64da269a75,foodcourt,food,"Hygiene issue at the Food Court counter, plates look unwashed",2026-02-17 12:39:00,23f3370d85f46527,3,187,flood-038
+r-30382d6869,foodcourt,food,Undercooked rice served at Food Court during lunch,2026-02-17 12:41:00,00f2a223252631ea,3,187,flood-038
+r-530282f7fe,foodcourt,food,"Food smells stale at Food Court, please check the batch",2026-02-17 12:41:00,2487f9a5cc75ed53,3,187,flood-038
+r-0d8654a65a,foodcourt,food,"Hygiene issue at the Food Court counter, plates look unwashed",2026-02-17 12:43:00,08a20ee2eec44f9c,3,187,flood-038
+r-b5a3ebe2d0,foodcourt,food,"Hygiene issue at the Food Court counter, plates look unwashed",2026-02-17 12:43:00,6aba1b433a3c9a66,3,187,flood-038
+r-4c32723fd9,foodcourt,food,"Curry at Food Court has a strange smell, please inspect",2026-02-17 12:46:00,a9a053db91ff4b0f,3,187,flood-038
+r-5640633d7b,foodcourt,food,Insect found near the serving counter at Food Court,2026-02-17 12:46:00,947a5575adaf4858,3,187,flood-038
+r-c646ce6f33,foodcourt,food,"Curry at Food Court has a strange smell, please inspect",2026-02-17 12:48:00,670c1bdba7f54f50,3,187,flood-038
+r-57e4274980,foodcourt,food,The milk at Food Court tastes sour today,2026-02-17 12:48:00,413f7ec78067e2e1,3,187,flood-038
+r-112cb915d1,hostel_g1,infrastructure,"Cracked pavement outside Girls Hostel G1, trip hazard",2026-02-18 07:21:00,954b7ac8bfaaec9f,1,54,single-063
+r-7707106879,vending_hub,cleanliness,Litter all around the Vending & ATM Hub seating area,2026-02-19 21:20:00,3c7b1108fd74cdda,1,109,flood-068
+r-42f90aab69,vending_hub,cleanliness,"Spilled food on the floor at Vending & ATM Hub, nobody is cleaning it",2026-02-19 21:20:00,e49c9b8242847d1b,1,109,flood-068
+r-328281b6ff,vending_hub,cleanliness,Garbage bins overflowing at Vending & ATM Hub,2026-02-19 21:21:00,c7ba6f0aa8ddb979,1,109,flood-068
+r-4e1e4a0368,vending_hub,cleanliness,Garbage bins overflowing at Vending & ATM Hub,2026-02-19 21:22:00,06327b5cdacaa5c3,1,109,flood-068
+r-4f505f70b1,vending_hub,cleanliness,Dustbins not cleared outside Vending & ATM Hub for two days,2026-02-19 21:24:00,2f951f3766d1f8c2,1,109,flood-068
+r-2af46a9fd7,vending_hub,cleanliness,Litter all around the Vending & ATM Hub seating area,2026-02-19 21:24:00,4cf013096d9f74c4,1,109,flood-068
+r-f8e86df981,vending_hub,cleanliness,Garbage bins overflowing at Vending & ATM Hub,2026-02-19 21:26:00,f95e4225d5cdfab7,1,109,flood-068
+r-6926bf4f62,vending_hub,cleanliness,Tables at Vending & ATM Hub are sticky and uncleaned,2026-02-19 21:27:00,63cac7ed657faba2,1,109,flood-068
+r-0264c06daf,vending_hub,cleanliness,"Spilled food on the floor at Vending & ATM Hub, nobody is cleaning it",2026-02-19 21:28:00,2df56508703f1fbd,1,109,flood-068
+r-45e5c1f97a,vending_hub,cleanliness,Dustbins not cleared outside Vending & ATM Hub for two days,2026-02-19 21:32:00,e07be86cb144c102,1,109,flood-068
+r-25b3f1a9c8,foodcourt,food,"Food smells stale at Food Court, please check the batch",2026-02-19 23:18:00,ba298cf53a665447,2,82,single-007
+r-15b81528af,hostel_b1,wifi,"Campus wifi not working in Boys Hostel B1, authentication keeps failing",2026-02-20 13:45:00,c8a07ae7039fbb8f,2,132,flood-036
+r-328130e533,hostel_b1,wifi,"Campus wifi not working in Boys Hostel B1, authentication keeps failing",2026-02-20 13:45:00,040dc4754670e4d6,2,132,flood-036
+r-884019ab0f,hostel_b1,wifi,"No internet in Boys Hostel B1, eduroam shows connected but nothing loads",2026-02-20 13:48:00,829dd03c657ae21d,2,132,flood-036
+r-c90078fd16,hostel_b1,wifi,Wifi is dead in the Boys Hostel B1 wing and nobody can submit assignments,2026-02-20 13:48:00,4c66f9f36790a822,2,132,flood-036
+r-728c571d95,hostel_b1,wifi,"No internet in Boys Hostel B1, eduroam shows connected but nothing loads",2026-02-20 13:49:00,9092825cfe8a5e29,2,132,flood-036
+r-7c8dc4df15,hostel_b1,wifi,Wi-Fi keeps dropping near Boys Hostel B1 since the last ten minutes,2026-02-20 13:50:00,80944e2bd9807f77,2,132,flood-036
+r-8dfb78e36e,hostel_b1,wifi,Wi-Fi keeps dropping near Boys Hostel B1 since the last ten minutes,2026-02-20 13:50:00,ebb1677c3dc0ab74,2,132,flood-036
+r-11c1580d18,hostel_b1,wifi,Wifi is dead in the Boys Hostel B1 wing and nobody can submit assignments,2026-02-20 13:51:00,53008766260f3416,2,132,flood-036
+r-4efa2bca65,hostel_b1,wifi,"Internet down in Boys Hostel B1, the whole floor is affected",2026-02-20 13:52:00,f58864592d983760,2,132,flood-036
+r-0e7eb2d9d7,hostel_b1,wifi,"Campus wifi not working in Boys Hostel B1, authentication keeps failing",2026-02-20 13:54:00,f056d7519cb339ca,2,132,flood-036
+r-61f5dd4ff9,hostel_b1,wifi,Wi-Fi keeps dropping near Boys Hostel B1 since the last ten minutes,2026-02-20 13:55:00,858900d3674e6575,2,132,flood-036
+r-4d087f11d0,hostel_b1,wifi,Frequent disconnections on the Boys Hostel B1 access point tonight,2026-02-20 13:55:00,2ad196a866e0fd5c,2,132,flood-036
+r-c138327bd0,hostel_b1,wifi,Frequent disconnections on the Boys Hostel B1 access point tonight,2026-02-20 13:56:00,1a0dac71fefb0638,2,132,flood-036
+r-6589aef815,hostel_b1,wifi,Wi-Fi keeps dropping near Boys Hostel B1 since the last ten minutes,2026-02-20 13:56:00,20b3ec3bd0c9ef86,2,132,flood-036
+r-cab1547a2f,hostel_b1,wifi,Wi-Fi keeps dropping near Boys Hostel B1 since the last ten minutes,2026-02-20 13:57:00,e52731797fd50a9e,2,132,flood-036
+r-c520aac6da,hostel_b1,wifi,Frequent disconnections on the Boys Hostel B1 access point tonight,2026-02-20 13:57:00,9f9ba414c3d14eaa,2,132,flood-036
+r-92f6cffff9,hostel_b1,wifi,"Internet down in Boys Hostel B1, the whole floor is affected",2026-02-20 13:58:00,eb9676106f1acd2a,2,132,flood-036
+r-5943225750,hostel_b1,wifi,"Internet down in Boys Hostel B1, the whole floor is affected",2026-02-20 13:59:00,956d463830cad469,2,132,flood-036
+r-853068a7ed,canteen_north,safety,"Slippery floor near North Canteen, someone almost fell",2026-02-20 16:30:00,fca3bd464455caf4,3,150,single-055
+r-64f9e8f754,block_c,infrastructure,"Ceiling tile fell down in Mechanical Block, area is unsafe",2026-02-20 19:08:00,ced984897b6d3fd9,2,145,flood-005
+r-f92551b428,block_c,infrastructure,"Lift stuck between floors at Mechanical Block, please check",2026-02-20 19:10:00,0cef5e4cd788f0fb,2,145,flood-005
+r-71b812ca65,block_c,infrastructure,Window glass cracked in Mechanical Block after the storm,2026-02-20 19:12:00,874a4213cc1b1a89,2,145,flood-005
+r-49c0b98941,block_c,infrastructure,"Ceiling tile fell down in Mechanical Block, area is unsafe",2026-02-20 19:13:00,179af0e54858c7d0,2,145,flood-005
+r-88e284824f,block_c,infrastructure,"Door latch broken at Mechanical Block, it will not close",2026-02-20 19:13:00,68a94dce141eaec6,2,145,flood-005
+r-c3e1fe8b38,block_c,infrastructure,"Door latch broken at Mechanical Block, it will not close",2026-02-20 19:18:00,e9756408a86e053b,2,145,flood-005
+r-b01dd636b5,block_c,infrastructure,"Door latch broken at Mechanical Block, it will not close",2026-02-20 19:19:00,ad58922e700aba1a,2,145,flood-005
+r-28deb6db27,block_c,infrastructure,"Lift stuck between floors at Mechanical Block, please check",2026-02-20 19:21:00,028bb730e65a25a8,2,145,flood-005
+r-67973aa6a0,block_c,infrastructure,Broken chair and exposed nail in the Mechanical Block seating area,2026-02-20 19:23:00,35f21cd538217b4e,2,145,flood-005
+r-ddd0a758e8,block_c,infrastructure,"Lift stuck between floors at Mechanical Block, please check",2026-02-20 19:27:00,a8a987004d3cf9d3,2,145,flood-005
+r-7837387ea7,sports,cleanliness,Litter all around the Sports Complex seating area,2026-02-20 22:09:00,d03ab320c8a00c5f,0,16,single-022
+r-25340ee8be,mess_north,food,"Curry at North Mess has a strange smell, please inspect",2026-02-21 13:21:00,371735ffdc609c3a,3,177,flood-077
+r-71f474c844,mess_north,food,The milk at North Mess tastes sour today,2026-02-21 13:21:00,b2faf6497960119c,3,177,flood-077
+r-34098959bb,mess_north,food,Undercooked rice served at North Mess during lunch,2026-02-21 13:22:00,844069a47156f35c,3,177,flood-077
+r-92b2db1f12,mess_north,food,"Curry at North Mess has a strange smell, please inspect",2026-02-21 13:28:00,e9d279389543af51,3,177,flood-077
+r-0252e11978,mess_north,food,"Hygiene issue at the North Mess counter, plates look unwashed",2026-02-21 13:28:00,595dcada397aeb7a,3,177,flood-077
+r-9d304534cd,mess_north,food,"Food smells stale at North Mess, please check the batch",2026-02-21 13:29:00,b678d6df7ebaa3a2,3,177,flood-077
+r-b598c9ce03,mess_north,food,"Hygiene issue at the North Mess counter, plates look unwashed",2026-02-21 13:29:00,03379a3d65257dab,3,177,flood-077
+r-2f31c04a9e,mess_north,food,"Curry at North Mess has a strange smell, please inspect",2026-02-21 13:29:00,f4709c6a6a7348fc,3,177,flood-077
+r-fbd9450d1a,mess_north,food,Undercooked rice served at North Mess during lunch,2026-02-21 13:30:00,8d9f5790f9a86c29,3,177,flood-077
+r-8beaf78378,mess_north,food,"Curry at North Mess has a strange smell, please inspect",2026-02-21 13:33:00,c5390d62c77b285e,3,177,flood-077
+r-51074da9c4,block_b,infrastructure,"Ceiling tile fell down in Electronics Block, area is unsafe",2026-02-22 07:29:00,52c6a35dd002dd2e,1,58,single-016
+r-ea16ae5f2f,sports,electrical,The Sports Complex breaker keeps tripping every few minutes,2026-02-22 19:29:00,0d522ee0fec683c6,2,109,single-002
+r-aceb9ee328,hostel_b1,electrical,The Boys Hostel B1 breaker keeps tripping every few minutes,2026-02-22 20:56:00,108cd8a94578b8fc,3,204,flood-026
+r-8aa2d5dd8f,hostel_b1,electrical,The Boys Hostel B1 breaker keeps tripping every few minutes,2026-02-22 20:57:00,377a0d4363a1455b,3,204,flood-026
+r-fe198767d8,hostel_b1,electrical,"Power socket sparked in Boys Hostel B1, please check immediately",2026-02-22 20:58:00,3a750dbe7446d624,3,204,flood-026
+r-0a8d7e8eff,hostel_b1,electrical,"Fan and lights dead in Boys Hostel B1, main switch looks tripped",2026-02-22 21:01:00,ac3b3cbf545da094,3,204,flood-026
+r-ccdad7eb3f,hostel_b1,electrical,Switchboard is buzzing loudly in Boys Hostel B1,2026-02-22 21:03:00,f8d03393d6cf0f0d,3,204,flood-026
+r-a2e8c541cf,hostel_b1,electrical,Switchboard is buzzing loudly in Boys Hostel B1,2026-02-22 21:04:00,6fc2cc51744dd6ba,3,204,flood-026
+r-954daa571e,hostel_b1,electrical,"Fan and lights dead in Boys Hostel B1, main switch looks tripped",2026-02-22 21:04:00,35cf468a80b41d15,3,204,flood-026
+r-492579f510,hostel_b1,electrical,The Boys Hostel B1 breaker keeps tripping every few minutes,2026-02-22 21:07:00,068ce67312b664ae,3,204,flood-026
+r-e572d26623,hostel_b1,electrical,"Fan and lights dead in Boys Hostel B1, main switch looks tripped",2026-02-22 21:11:00,063448c51b8184fc,3,204,flood-026
+r-85f7c218ba,hostel_b1,electrical,Switchboard is buzzing loudly in Boys Hostel B1,2026-02-22 21:12:00,06205d67b59d85cd,3,204,flood-026
+r-7aaa5ef039,mess_main,plumbing,Tap is overflowing in Main Mess and water is spreading,2026-02-23 07:23:00,07dd7a2ca3b155fd,1,54,single-033
+r-9c29e9aa64,gate_north,food,Insect found near the serving counter at North Gate,2026-02-23 10:08:00,7f3b2aa0a9d12db4,2,100,single-037
+r-22f92794aa,block_b,plumbing,"Pipe burst near Electronics Block, please send someone fast",2026-02-23 19:37:00,2bfac61f79babeba,2,132,flood-004
+r-1b8271c14d,block_b,plumbing,"Pipe burst near Electronics Block, please send someone fast",2026-02-23 19:37:00,6f453dadbcdc0ed9,2,132,flood-004
+r-a158f76651,block_b,plumbing,"Washroom drain blocked in Electronics Block, water is standing",2026-02-23 19:38:00,d31e7a878ca31a27,2,132,flood-004
+r-f487069612,block_b,plumbing,"Pipe burst near Electronics Block, please send someone fast",2026-02-23 19:39:00,92bcbed73653ab7f,2,132,flood-004
+r-95a7fb0df8,block_b,plumbing,"Leaking joint under the sink in Electronics Block, floor is slippery",2026-02-23 19:39:00,00f619457cda54a5,2,132,flood-004
+r-f35b4e0e64,block_b,plumbing,"Pipe burst near Electronics Block, please send someone fast",2026-02-23 19:39:00,08b8ad71606c0aaa,2,132,flood-004
+r-8efbc2db35,block_b,plumbing,Water leaking from the ceiling in Electronics Block,2026-02-23 19:41:00,dedb012f69f4699f,2,132,flood-004
+r-d13c81cb2a,block_b,plumbing,"Washroom drain blocked in Electronics Block, water is standing",2026-02-23 19:41:00,31d9f0471f65b24d,2,132,flood-004
+r-7dca47eaaf,block_b,plumbing,"Leaking joint under the sink in Electronics Block, floor is slippery",2026-02-23 19:42:00,6253fd4d3086f1f5,2,132,flood-004
+r-4a6086fec2,block_b,plumbing,"Pipe burst near Electronics Block, please send someone fast",2026-02-23 19:42:00,385be8668c8fdecd,2,132,flood-004
+r-bf91c6ed19,block_b,plumbing,"Washroom drain blocked in Electronics Block, water is standing",2026-02-23 19:43:00,5dbc80b34dd13847,2,132,flood-004
+r-e51437bd3f,block_b,plumbing,"Leaking joint under the sink in Electronics Block, floor is slippery",2026-02-23 19:43:00,a8d99c7c23a63dcb,2,132,flood-004
+r-131c84fb9a,block_b,plumbing,"Leaking joint under the sink in Electronics Block, floor is slippery",2026-02-23 19:44:00,05dcf2368dfca69e,2,132,flood-004
+r-1dedfa43ee,block_b,plumbing,"Leaking joint under the sink in Electronics Block, floor is slippery",2026-02-23 19:45:00,eb7000ec3a6c1d9a,2,132,flood-004
+r-ab31dc5f98,foodcourt,cleanliness,Tables at Food Court are sticky and uncleaned,2026-02-24 15:52:00,5d8eed3ae6ae5f65,1,84,flood-010
+r-3e0e97cb5f,foodcourt,cleanliness,Dustbins not cleared outside Food Court for two days,2026-02-24 15:53:00,8f337c5651b59c6d,1,84,flood-010
+r-5a74d37a30,foodcourt,cleanliness,"Spilled food on the floor at Food Court, nobody is cleaning it",2026-02-24 15:53:00,0204865f71bfc0c4,1,84,flood-010
+r-10e48a68b1,foodcourt,cleanliness,Washroom at Food Court is dirty and out of soap,2026-02-24 15:59:00,4e5f0cc57dcd74e2,1,84,flood-010
+r-a64c27fce4,foodcourt,cleanliness,Litter all around the Food Court seating area,2026-02-24 16:00:00,562b75ec338b9aa1,1,84,flood-010
+r-2d7e0d93f4,foodcourt,cleanliness,Tables at Food Court are sticky and uncleaned,2026-02-24 16:00:00,94c1f983011f08c2,1,84,flood-010
+r-bb787171cf,foodcourt,cleanliness,Tables at Food Court are sticky and uncleaned,2026-02-24 16:02:00,16a0c3568a103cde,1,84,flood-010
+r-aa80f01652,foodcourt,cleanliness,Garbage bins overflowing at Food Court,2026-02-24 16:02:00,1f36078e08bae3ad,1,84,flood-010
+r-e2561c5218,hostel_g1,plumbing,"Leaking joint under the sink in Girls Hostel G1, floor is slippery",2026-02-25 04:14:00,59c53d321b9695fc,1,59,single-057
+r-906510c17e,library,safety,"Slippery floor near Central Library, someone almost fell",2026-02-25 22:59:00,6071c058b3ad71b0,3,187,flood-052
+r-7290a0757c,library,safety,"Stray dog pack near Central Library, students are scared to walk",2026-02-25 23:01:00,5c94ede99d62d420,3,187,flood-052
+r-46b6492551,library,safety,"Streetlight is off on the path near Central Library, it is very dark",2026-02-25 23:01:00,d72c7d56f887e5e4,3,187,flood-052
+r-96f1fcb6f1,library,safety,"Streetlight is off on the path near Central Library, it is very dark",2026-02-25 23:02:00,d5e633e39882e18c,3,187,flood-052
+r-2ed8200850,library,safety,"Slippery floor near Central Library, someone almost fell",2026-02-25 23:03:00,5688398ccc239d9d,3,187,flood-052
+r-c44ece3183,library,safety,"Streetlight is off on the path near Central Library, it is very dark",2026-02-25 23:03:00,08447d484a5ad88a,3,187,flood-052
+r-8c814c56b1,library,safety,"Slippery floor near Central Library, someone almost fell",2026-02-25 23:03:00,f793a31c555cb5a0,3,187,flood-052
+r-2f79681cc1,library,safety,Group loitering and passing comments near Central Library,2026-02-25 23:06:00,61ac7d9f4ec83b8e,3,187,flood-052
+r-4f43b4fe56,library,safety,Suspicious person following students near Central Library after dark,2026-02-25 23:09:00,de87df73bcf8bfcb,3,187,flood-052
+r-1d91171a0e,library,safety,"Slippery floor near Central Library, someone almost fell",2026-02-25 23:11:00,78388c012ea1a0bb,3,187,flood-052
+r-f36d510458,library,safety,"Slippery floor near Central Library, someone almost fell",2026-02-25 23:12:00,9bec1e9160b150c1,3,187,flood-052
+r-03d0a54a23,library,safety,"Streetlight is off on the path near Central Library, it is very dark",2026-02-25 23:13:00,4f132adfcd9d5c07,3,187,flood-052
+r-f94aedaf6b,vending_hub,wifi,"No internet in Vending & ATM Hub, eduroam shows connected but nothing loads",2026-02-27 03:52:00,b9484689dda8b4ee,0,23,single-024
+r-6ce54d4075,block_b,electrical,"Power socket sparked in Electronics Block, please check immediately",2026-02-27 04:53:00,32130ef704d8e55a,3,132,single-038
+r-1d878f1995,hostel_g1,wifi,Girls Hostel G1 has zero signal bars and the hotspot says no internet,2026-02-27 16:16:00,79b92d04e768f453,2,146,flood-058
+r-e46a176613,hostel_g1,wifi,"Internet down in Girls Hostel G1, the whole floor is affected",2026-02-27 16:16:00,615c3c5dac8ee65a,2,146,flood-058
+r-dfd0a82f84,hostel_g1,wifi,Frequent disconnections on the Girls Hostel G1 access point tonight,2026-02-27 16:17:00,c01882119638fbf1,2,146,flood-058
+r-807905d06e,hostel_g1,wifi,Wifi is dead in the Girls Hostel G1 wing and nobody can submit assignments,2026-02-27 16:17:00,9f7223c1c9e1658b,2,146,flood-058
+r-c3f841134a,hostel_g1,wifi,Frequent disconnections on the Girls Hostel G1 access point tonight,2026-02-27 16:17:00,3e72c4e8238b8886,2,146,flood-058
+r-c88e7f6569,hostel_g1,wifi,Frequent disconnections on the Girls Hostel G1 access point tonight,2026-02-27 16:17:00,328ce584d66a2ca8,2,146,flood-058
+r-94d8042d99,hostel_g1,wifi,Wifi is dead in the Girls Hostel G1 wing and nobody can submit assignments,2026-02-27 16:18:00,07abcb1fe7035f34,2,146,flood-058
+r-4224a9b8ef,hostel_g1,wifi,"Internet down in Girls Hostel G1, the whole floor is affected",2026-02-27 16:18:00,f9a266765adb8b01,2,146,flood-058
+r-b65966e7ca,hostel_g1,wifi,Frequent disconnections on the Girls Hostel G1 access point tonight,2026-02-27 16:19:00,c9b5dad296528d5f,2,146,flood-058
+r-15da1e57fd,hostel_g1,wifi,"Internet down in Girls Hostel G1, the whole floor is affected",2026-02-27 16:20:00,07847f5288c3a401,2,146,flood-058
+r-fd7585d865,hostel_g1,wifi,Wifi is dead in the Girls Hostel G1 wing and nobody can submit assignments,2026-02-27 16:20:00,b5e2331622b3afbb,2,146,flood-058
+r-1c5b93645c,hostel_g1,wifi,Wi-Fi keeps dropping near Girls Hostel G1 since the last ten minutes,2026-02-27 16:21:00,d519e9de20e2ff02,2,146,flood-058
+r-89990535d0,hostel_g1,wifi,Girls Hostel G1 has zero signal bars and the hotspot says no internet,2026-02-27 16:21:00,bdfd5aa7a61b5bbd,2,146,flood-058
+r-8e9328246a,hostel_g1,wifi,"Campus wifi not working in Girls Hostel G1, authentication keeps failing",2026-02-27 16:21:00,3ec803e189ab23f0,2,146,flood-058
+r-9bd01bbad3,foodcourt,food,"Curry at Food Court has a strange smell, please inspect",2026-02-27 21:46:00,1bda32ffc59857c3,3,207,flood-069
+r-28a10bfdeb,foodcourt,food,Undercooked rice served at Food Court during lunch,2026-02-27 21:47:00,79376905b5dabcc0,3,207,flood-069
+r-0bbe799fa5,foodcourt,food,"Hygiene issue at the Food Court counter, plates look unwashed",2026-02-27 21:48:00,007d8018a0ec5132,3,207,flood-069
+r-524db44fda,foodcourt,food,Undercooked rice served at Food Court during lunch,2026-02-27 21:53:00,e53298ab6ed5cf2f,3,207,flood-069
+r-6ba8eaaf90,foodcourt,food,"Food smells stale at Food Court, please check the batch",2026-02-27 21:53:00,0a3d933fa8c5ae5b,3,207,flood-069
+r-988de015ad,foodcourt,food,"Curry at Food Court has a strange smell, please inspect",2026-02-27 21:53:00,205170d366eecb44,3,207,flood-069
+r-6792552fd3,foodcourt,food,"Food smells stale at Food Court, please check the batch",2026-02-27 21:54:00,62bfd46d0210250c,3,207,flood-069
+r-de4004010d,foodcourt,food,"Hygiene issue at the Food Court counter, plates look unwashed",2026-02-27 21:55:00,d3fcf72c81e68e04,3,207,flood-069
+r-d1bd699ead,foodcourt,food,"Food smells stale at Food Court, please check the batch",2026-02-27 21:56:00,a0c117810629c9ba,3,207,flood-069
+r-24573325c1,foodcourt,food,"Food smells stale at Food Court, please check the batch",2026-02-27 21:57:00,bc2c46d636e548c2,3,207,flood-069
+r-fd2b12db36,foodcourt,food,"Hygiene issue at the Food Court counter, plates look unwashed",2026-02-27 21:57:00,d2c7179fe76024ce,3,207,flood-069
+r-581a54aee7,foodcourt,food,Undercooked rice served at Food Court during lunch,2026-02-27 21:57:00,4181d707977719b5,3,207,flood-069
+r-02e683b8de,foodcourt,food,The milk at Food Court tastes sour today,2026-02-27 21:57:00,0a58be695f24370a,3,207,flood-069
+r-e85abe75a8,foodcourt,food,"Curry at Food Court has a strange smell, please inspect",2026-02-27 21:58:00,d7a1c144edcb282c,3,207,flood-069
+r-6d272e4c31,block_c,cleanliness,"Spilled food on the floor at Mechanical Block, nobody is cleaning it",2026-02-27 22:09:00,094abd3322e687e5,0,20,single-026
+r-9bcd6d25bf,hostel_b1,food,"Food smells stale at Boys Hostel B1, please check the batch",2026-02-28 04:34:00,ef1182a06f034bd1,2,116,single-000
+r-ea3b5f08cf,block_d,safety,Suspicious person following students near Civil & Design Block after dark,2026-02-28 08:09:00,eeca6a871641d524,3,160,single-036
+r-b75a2b8de9,mess_north,food,"Curry at North Mess has a strange smell, please inspect",2026-02-28 18:09:00,00befd66fd23156a,3,184,flood-032
+r-f2864ef3c8,mess_north,food,Undercooked rice served at North Mess during lunch,2026-02-28 18:09:00,575a0aca623d7ea7,3,184,flood-032
+r-034738f0e1,mess_north,food,The milk at North Mess tastes sour today,2026-02-28 18:09:00,9b57a457c7128583,3,184,flood-032
+r-e4a03e45e7,mess_north,food,The milk at North Mess tastes sour today,2026-02-28 18:10:00,05f2cd733dd98885,3,184,flood-032
+r-ad6fe49dfa,mess_north,food,Insect found near the serving counter at North Mess,2026-02-28 18:11:00,66bec6ed3063e293,3,184,flood-032
+r-151c1972f0,mess_north,food,The milk at North Mess tastes sour today,2026-02-28 18:11:00,8f3b60f2d6657c93,3,184,flood-032
+r-ec68eda467,mess_north,food,The milk at North Mess tastes sour today,2026-02-28 18:13:00,42bd306e0eaf42be,3,184,flood-032
+r-82c6eec120,mess_north,food,Insect found near the serving counter at North Mess,2026-02-28 18:14:00,712bbdd24c060722,3,184,flood-032
+r-f42811f964,mess_north,food,"Curry at North Mess has a strange smell, please inspect",2026-02-28 18:15:00,fb1adfa580410f90,3,184,flood-032
+r-b3cc7eaf4d,mess_north,food,"Hygiene issue at the North Mess counter, plates look unwashed",2026-02-28 18:16:00,9510ca4652af06a5,3,184,flood-032
+r-5eddd9a5e8,mess_north,food,The milk at North Mess tastes sour today,2026-02-28 18:17:00,6c4932279fa71b50,3,184,flood-032
+r-4df40bfea7,mess_north,food,"Food smells stale at North Mess, please check the batch",2026-02-28 18:17:00,3fa15c739a426067,3,184,flood-032
+r-c2371bd97a,mess_north,food,Insect found near the serving counter at North Mess,2026-02-28 18:17:00,f0e3394f47b294aa,3,184,flood-032
+r-a137ed22a7,mess_north,food,"Hygiene issue at the North Mess counter, plates look unwashed",2026-02-28 18:17:00,a0e3ab07958b6a5a,3,184,flood-032
+r-1613e6f39c,foodcourt,cleanliness,Garbage bins overflowing at Food Court,2026-03-01 07:40:00,e767512985b4cfc6,0,15,flood-033
+r-6a9facb9eb,foodcourt,cleanliness,Dustbins not cleared outside Food Court for two days,2026-03-01 07:41:00,c45f6f4f8a9e6a44,0,15,flood-033
+r-4817f62d0a,foodcourt,cleanliness,Washroom at Food Court is dirty and out of soap,2026-03-01 07:42:00,9fae48b30fa757d1,0,15,flood-033
+r-0b8ed7e650,foodcourt,cleanliness,Tables at Food Court are sticky and uncleaned,2026-03-01 07:43:00,b24fc2587fff881b,0,15,flood-033
+r-925ae1fc64,foodcourt,cleanliness,Litter all around the Food Court seating area,2026-03-01 07:43:00,2967d2506082aca0,0,15,flood-033
+r-d0a5868699,foodcourt,cleanliness,Washroom at Food Court is dirty and out of soap,2026-03-01 07:43:00,75a3153e9a060a1e,0,15,flood-033
+r-3a87a1a453,foodcourt,cleanliness,Dustbins not cleared outside Food Court for two days,2026-03-01 07:43:00,f9ab73785d4c8d69,0,15,flood-033
+r-88d7b5f260,library,plumbing,No water supply in the Central Library washroom since morning,2026-03-01 08:51:00,871ab2c7da2c096c,1,62,single-044
+r-596b071fd4,mess_north,infrastructure,"Cracked pavement outside North Mess, trip hazard",2026-03-01 12:52:00,837e719caff1bc75,1,70,single-052
+r-38f18ec754,library,infrastructure,"Door latch broken at Central Library, it will not close",2026-03-01 18:33:00,7606cbd115b4e868,3,185,flood-021
+r-b9832e52bd,library,infrastructure,"Cracked pavement outside Central Library, trip hazard",2026-03-01 18:36:00,61fec0d6ad156388,3,185,flood-021
+r-aceda59d98,library,infrastructure,"Lift stuck between floors at Central Library, please check",2026-03-01 18:36:00,51f016a794186e69,3,185,flood-021
+r-0a4cfc4e9e,library,infrastructure,"Door latch broken at Central Library, it will not close",2026-03-01 18:38:00,839a32e62361dabe,3,185,flood-021
+r-b7af3c45d3,library,infrastructure,"Ceiling tile fell down in Central Library, area is unsafe",2026-03-01 18:39:00,6b5ba6c0c2e12314,3,185,flood-021
+r-f6d13fc11c,library,infrastructure,Window glass cracked in Central Library after the storm,2026-03-01 18:39:00,d59002bb7ffacdb5,3,185,flood-021
+r-271001e8ea,library,infrastructure,"Cracked pavement outside Central Library, trip hazard",2026-03-01 18:40:00,ed826f3b1f0fbbaa,3,185,flood-021
+r-6bd60cffcc,library,infrastructure,"Lift stuck between floors at Central Library, please check",2026-03-01 18:40:00,f81ca1a78940fdb3,3,185,flood-021
+r-8999a51572,library,infrastructure,Window glass cracked in Central Library after the storm,2026-03-01 18:43:00,a056840b6f2a78d6,3,185,flood-021
+r-51683e63de,library,infrastructure,"Lift stuck between floors at Central Library, please check",2026-03-01 18:43:00,9c1365176f05b1ba,3,185,flood-021
+r-5857d63d52,library,infrastructure,"Ceiling tile fell down in Central Library, area is unsafe",2026-03-01 18:44:00,08acf493898b23cf,3,185,flood-021
+r-1df40bf552,library,infrastructure,Window glass cracked in Central Library after the storm,2026-03-01 18:44:00,2eeb7d200d6d57cb,3,185,flood-021
+r-b554d58fb7,library,infrastructure,Window glass cracked in Central Library after the storm,2026-03-01 18:45:00,5f7050390622883f,3,185,flood-021
+r-aae8654402,library,infrastructure,"Lift stuck between floors at Central Library, please check",2026-03-01 18:46:00,68027e37b72499eb,3,185,flood-021
+r-cbaa352416,library,infrastructure,"Lift stuck between floors at Central Library, please check",2026-03-01 18:48:00,713f84dc4ca533e5,3,185,flood-021
+r-08a4a9b26e,library,infrastructure,Broken chair and exposed nail in the Central Library seating area,2026-03-01 18:49:00,5c0367e8bef7ce4a,3,185,flood-021
+r-c5f54b8d33,library,infrastructure,"Ceiling tile fell down in Central Library, area is unsafe",2026-03-01 18:50:00,225bcb19d097f252,3,185,flood-021
+r-5d79672825,library,infrastructure,"Cracked pavement outside Central Library, trip hazard",2026-03-01 18:52:00,953128158d51a28a,3,185,flood-021
+r-114130d0a1,hostel_g1,plumbing,Tap is overflowing in Girls Hostel G1 and water is spreading,2026-03-02 12:02:00,e22e96042a753965,1,72,single-012
+r-a6c0e3010c,block_b,wifi,"No internet in Electronics Block, eduroam shows connected but nothing loads",2026-03-04 05:33:00,d817870a8e04a843,1,100,single-035
+r-33acd98b39,hostel_b1,electrical,The Boys Hostel B1 breaker keeps tripping every few minutes,2026-03-04 10:21:00,a42302db3c2c3cc5,2,126,flood-034
+r-c3173b9861,hostel_b1,electrical,Lights flickering and a burning smell in Boys Hostel B1,2026-03-04 10:23:00,c876134637ec60d4,2,126,flood-034
+r-fb6384d5ac,hostel_b1,electrical,"Fan and lights dead in Boys Hostel B1, main switch looks tripped",2026-03-04 10:25:00,8e3e0a542d67384f,2,126,flood-034
+r-b797679578,hostel_b1,electrical,Switchboard is buzzing loudly in Boys Hostel B1,2026-03-04 10:26:00,85ebdf2d13985d45,2,126,flood-034
+r-a30912327a,hostel_b1,electrical,Lights flickering and a burning smell in Boys Hostel B1,2026-03-04 10:28:00,c3bf874e98c405fb,2,126,flood-034
+r-055ac0fccd,mess_main,food,"Hygiene issue at the Main Mess counter, plates look unwashed",2026-03-04 18:32:00,044ea6c8202ed113,2,124,flood-080
+r-e8fcc2ff8d,mess_main,food,"Food smells stale at Main Mess, please check the batch",2026-03-04 18:34:00,e82191b7b956f1f6,2,124,flood-080
+r-13c9cdfbdd,mess_main,food,Insect found near the serving counter at Main Mess,2026-03-04 18:38:00,95ebeb2a50a036be,2,124,flood-080
+r-80e87aba07,mess_main,food,The milk at Main Mess tastes sour today,2026-03-04 18:38:00,e92183bac0a05364,2,124,flood-080
+r-db7d23bd4c,mess_main,food,Undercooked rice served at Main Mess during lunch,2026-03-04 18:39:00,8f32636ee109c28b,2,124,flood-080
+r-1522ad71f6,canteen_north,food,The milk at North Canteen tastes sour today,2026-03-05 07:36:00,796df5a1eaa022c5,2,123,flood-024
+r-ac12fe3548,canteen_north,food,Insect found near the serving counter at North Canteen,2026-03-05 07:37:00,c2cf4633721c21dc,2,123,flood-024
+r-4bf98ccabf,canteen_north,food,"Food smells stale at North Canteen, please check the batch",2026-03-05 07:37:00,3476f68fb18d1398,2,123,flood-024
+r-40baf484ae,canteen_north,food,Insect found near the serving counter at North Canteen,2026-03-05 07:37:00,58e9f750d4ad4ba9,2,123,flood-024
+r-5f22193ff3,canteen_north,food,"Curry at North Canteen has a strange smell, please inspect",2026-03-05 07:41:00,369ec910cf1a34a3,2,123,flood-024
+r-ffdfb6c291,canteen_north,food,The milk at North Canteen tastes sour today,2026-03-05 07:41:00,55c1aaeb727b4951,2,123,flood-024
+r-860c29fe68,library,safety,"Slippery floor near Central Library, someone almost fell",2026-03-05 11:37:00,45c8c864b38a1444,3,213,flood-045
+r-4269ad6384,library,safety,"Streetlight is off on the path near Central Library, it is very dark",2026-03-05 11:37:00,8af0e53b591e0cc0,3,213,flood-045
+r-c262a8f994,library,safety,"Streetlight is off on the path near Central Library, it is very dark",2026-03-05 11:38:00,febb3f7e41ff68ce,3,213,flood-045
+r-5c08c1deb9,library,safety,Emergency exit near Central Library is blocked by parked carts,2026-03-05 11:40:00,5e3d34d42f24145a,3,213,flood-045
+r-1113f7e851,library,safety,Suspicious person following students near Central Library after dark,2026-03-05 11:41:00,ae8ade33ee4917f5,3,213,flood-045
+r-14af56d923,library,safety,"Streetlight is off on the path near Central Library, it is very dark",2026-03-05 11:42:00,b996885c71022bd3,3,213,flood-045
+r-aed2dfca24,library,safety,Emergency exit near Central Library is blocked by parked carts,2026-03-05 11:44:00,40988fa25cc872a1,3,213,flood-045
+r-52426c3858,library,safety,Emergency exit near Central Library is blocked by parked carts,2026-03-05 11:46:00,a0ca33cfcf7ab8da,3,213,flood-045
+r-6f4884236a,library,safety,Suspicious person following students near Central Library after dark,2026-03-05 11:47:00,b0dfd63a30ccfb34,3,213,flood-045
+r-722b59aa28,library,safety,Emergency exit near Central Library is blocked by parked carts,2026-03-05 11:49:00,1bbef51169fe3752,3,213,flood-045
+r-a0b6eb8680,library,safety,"Slippery floor near Central Library, someone almost fell",2026-03-05 11:50:00,26afadf386fbdd3f,3,213,flood-045
+r-7260e55d0e,library,safety,Emergency exit near Central Library is blocked by parked carts,2026-03-05 11:50:00,49afe00a3aec3591,3,213,flood-045
+r-3c768368b9,library,safety,"Slippery floor near Central Library, someone almost fell",2026-03-05 11:51:00,daada82b698dc191,3,213,flood-045
+r-0fc216e5e6,library,safety,Group loitering and passing comments near Central Library,2026-03-05 11:51:00,8bfe24ee2245e3cd,3,213,flood-045
+r-ef83772b7c,laundry,plumbing,"Washroom drain blocked in Laundry Block, water is standing",2026-03-05 21:42:00,321248b2a5b9785e,2,144,flood-025
+r-13fa07fc2f,laundry,plumbing,"Leaking joint under the sink in Laundry Block, floor is slippery",2026-03-05 21:43:00,699b273044e21bd1,2,144,flood-025
+r-10d525d3ed,laundry,plumbing,Water leaking from the ceiling in Laundry Block,2026-03-05 21:46:00,4cec91169fab749a,2,144,flood-025
+r-cd64dfb196,laundry,plumbing,"Leaking joint under the sink in Laundry Block, floor is slippery",2026-03-05 21:46:00,3fd43cb232746193,2,144,flood-025
+r-e66b38b6eb,laundry,plumbing,"Pipe burst near Laundry Block, please send someone fast",2026-03-05 21:47:00,b84975aa77aa529b,2,144,flood-025
+r-62a11038c3,laundry,plumbing,"Washroom drain blocked in Laundry Block, water is standing",2026-03-05 21:48:00,416ab62f8337f00b,2,144,flood-025
+r-0d7f95c8bc,laundry,plumbing,"Pipe burst near Laundry Block, please send someone fast",2026-03-05 21:48:00,2bb0123371ef7196,2,144,flood-025
+r-381adfb609,laundry,plumbing,Water leaking from the ceiling in Laundry Block,2026-03-05 21:51:00,bed4da8ce7098907,2,144,flood-025
+r-e96cf6da06,laundry,plumbing,Tap is overflowing in Laundry Block and water is spreading,2026-03-05 21:52:00,a850c057b1e60162,2,144,flood-025
+r-aa710a66e4,laundry,plumbing,Tap is overflowing in Laundry Block and water is spreading,2026-03-05 21:53:00,66bc752bce17375f,2,144,flood-025

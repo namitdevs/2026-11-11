@@ -1,0 +1,245 @@
+{
+  "benchmark_version": "1.0.0",
+  "generated_at": "2026-11-11T12:42:18.909596+00:00",
+  "seed": 42,
+  "dataset_sha256_16": "7278df8c702420ec",
+  "environment": {
+    "python": "3.11.9",
+    "platform": "Windows-10-10.0.26300-SP0",
+    "numpy": "2.4.6",
+    "pandas": "3.1.1",
+    "sklearn": "1.9.1",
+    "lightgbm": "4.7.0",
+    "xgboost": "3.2.0",
+    "embedder_backend": "hashing"
+  },
+  "data_contract": {
+    "telemetry_days": 35,
+    "incident_days": 60,
+    "mess_days": 60,
+    "source": "calibrated synthetic digital twin (documented generator)"
+  },
+  "forecast": {
+    "split": "chronological 70/15/15",
+    "rows": 140740,
+    "refined_rows": 46946,
+    "dropped_faulty_rows": 94,
+    "model": {
+      "mae_occupancy_ratio": 0.0324,
+      "rmse_occupancy_ratio": 0.0685,
+      "r2_occupancy_ratio": 0.9333,
+      "mae_wait_min": 1.377,
+      "quantile_coverage_p10_p90": 0.754
+    },
+    "baselines": {
+      "persistence": {
+        "mae": 0.0651,
+        "r2": 0.8038
+      },
+      "seasonal_naive_24h": {
+        "mae": 0.0879,
+        "r2": 0.6524
+      },
+      "ridge": {
+        "mae": 0.0599,
+        "r2": 0.864
+      }
+    },
+    "improvement_vs_seasonal_pct": 63.17,
+    "per_horizon": [
+      {
+        "horizon_min": 15,
+        "rows": 7043,
+        "model_mae": 0.0283,
+        "persistence_mae": 0.042,
+        "model_r2": 0.9399
+      },
+      {
+        "horizon_min": 30,
+        "rows": 7029,
+        "model_mae": 0.0315,
+        "persistence_mae": 0.06,
+        "model_r2": 0.9362
+      },
+      {
+        "horizon_min": 60,
+        "rows": 7001,
+        "model_mae": 0.0373,
+        "persistence_mae": 0.0934,
+        "model_r2": 0.9238
+      }
+    ],
+    "refine_quality": 0.998
+  },
+  "ablations": {
+    "full_model_mae": 0.0324,
+    "no_spatial_features_mae": 0.0338,
+    "no_temporal_features_mae": 0.0341,
+    "no_refiner_mae": 0.0349,
+    "delta_pct": {
+      "spatial": 4.43,
+      "temporal": 5.36,
+      "refiner": 7.83
+    }
+  },
+  "triage": {
+    "split": "group-aware by incident cluster (80/20), no paraphrase leakage",
+    "feature_contract": "structured context + text cues; embeddings owned by dedupe/retrieval",
+    "reports": 1029,
+    "clusters": 163,
+    "merged_reports": 866,
+    "model": {
+      "accuracy": 0.858,
+      "macro_f1": 0.785,
+      "weighted_f1": 0.8541,
+      "per_class_f1": {
+        "P3": 0.6667,
+        "P2": 0.75,
+        "P1": 0.7966,
+        "P0": 0.9266
+      },
+      "mean_confidence": 0.7606,
+      "confusion_matrix": [
+        [
+          1,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          15,
+          8,
+          0
+        ],
+        [
+          0,
+          2,
+          47,
+          10
+        ],
+        [
+          0,
+          0,
+          3,
+          82
+        ]
+      ],
+      "sla_mae_min": 24.89
+    },
+    "baselines": {
+      "majority_class": {
+        "accuracy": 0.503,
+        "macro_f1": 0.1673
+      },
+      "logreg_structured": {
+        "accuracy": 0.8225,
+        "macro_f1": 0.5696
+      }
+    },
+    "embedding_features_ablation": {
+      "accuracy": 0.7751,
+      "macro_f1": 0.7386
+    }
+  },
+  "dedupe": {
+    "threshold": 0.25,
+    "backend": "hashing",
+    "reports": 1029,
+    "clusters": 163,
+    "merged_reports": 866,
+    "semantic_gate": {
+      "pair_precision": 1.0,
+      "pair_recall": 0.9737,
+      "pair_f1": 0.9867,
+      "predicted_pairs": 5486,
+      "true_pairs": 5634
+    },
+    "exact_text_match_ablation": {
+      "pair_precision": 0.3167,
+      "pair_recall": 0.1656,
+      "pair_f1": 0.2175,
+      "predicted_pairs": 2946,
+      "true_pairs": 5634
+    }
+  },
+  "mess": {
+    "split": "chronological by date (70/15/15)",
+    "rows": 480,
+    "model": {
+      "headcount_mae": 26.26,
+      "headcount_mape_pct": 6.92,
+      "waste_mae_kg": 11.23,
+      "r2_headcount": 0.9795
+    },
+    "baseline_seasonal": {
+      "headcount_mae": 48.81,
+      "headcount_mape_pct": 11.07
+    }
+  },
+  "routing": {
+    "pairs_evaluated": 75,
+    "mean_risk_reduction_pct": 28.92,
+    "median_risk_reduction_pct": 0.0,
+    "mean_extra_distance_pct": 7.22,
+    "route_latency_ms_p50": 0.177,
+    "route_latency_ms_p95": 0.402,
+    "dispatch": {
+      "requests": 120,
+      "greedy_mean_eta_min": 1.95,
+      "random_mean_eta_min": 4.87,
+      "eta_reduction_pct": 59.95
+    }
+  },
+  "latency": {
+    "forecast": {
+      "p50_ms": 68.43,
+      "p95_ms": 77.77
+    },
+    "search": {
+      "p50_ms": 0.75,
+      "p95_ms": 0.96
+    },
+    "triage": {
+      "p50_ms": 27.05,
+      "p95_ms": 34.49
+    },
+    "route": {
+      "p50_ms": 39.04,
+      "p95_ms": 52.03
+    }
+  },
+  "train_metrics": {
+    "forecast": {
+      "test_mae_occupancy_ratio": 0.0324,
+      "test_rmse_occupancy_ratio": 0.0685,
+      "test_mae_wait_min": 1.377,
+      "rows": 140740,
+      "train_rows": 98553,
+      "test_rows": 21073,
+      "refined_rows": 46946,
+      "raw_rows": 47040,
+      "quality_score": 0.998,
+      "timings_s": {
+        "lgb_q10": 3.31,
+        "lgb_q50": 3.44,
+        "lgb_q90": 3.24,
+        "xgb": 3.74
+      }
+    },
+    "triage": {
+      "test_accuracy": 0.858,
+      "test_macro_f1": 0.785,
+      "test_sla_mae_min": 24.887,
+      "reports": 1029,
+      "clusters": 163,
+      "merged_reports": 866
+    },
+    "mess": {
+      "test_headcount_mae": 26.264,
+      "test_waste_mae_kg": 11.231,
+      "mean_test_headcount": 400.8
+    }
+  },
+  "wall_clock_s": 20.3
+}

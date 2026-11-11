@@ -1,0 +1,4 @@
+# Optional: upgrade semantic dedupe and place search from the deterministic
+# hashing fallback to sentence-transformers/all-MiniLM-L6-v2.
+# The application and all tests run without this file installed.
+sentence-transformers>=3.0,<6.0
